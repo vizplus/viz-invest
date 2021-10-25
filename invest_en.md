@@ -1,48 +1,48 @@
-# Инвестиции в ВИЗ
+# Investments in VIZ
 
-*Изложенное ниже - позиция Инициативы VIZPLUS, у других участников ВИЗа могут быть иные взгляды на ВИЗ (или такие же). Ни одно заявление на этой странице не является инвестиционной рекомендацией. Только вы сами принимаете решения, связанные с вашими активами.*
+*The following is the position of the VIZPLUS Initiative, other VIZ participants may have different views on VIZ (or the same). None of the statements on this page constitute investment advice. Only you make decisions related to your assets.*
 
-**Важное предупреждение**!
+**Important warning**!
 
-Вам не нужны токены viz, если вы не понимаете, для чего и для кого они предназначены, какие идеи за ними стоят, и что с их помощью можно делать. Если вы относитесь к ВИЗу как к «ещё одной крипте, которая пампанёт на фоне общего роста», вы обязательно разочаруетесь. Не инвестируйте в ВИЗ, купите какой-нибудь шиткоин и ждите туземуна. Пожалуйста, проходите мимо. Спасибо.
+You do not need viz tokens if you do not understand what and for whom they are intended, what ideas are behind them, and what can be done with them. If you treat VIZ as “another crypto that will pamp against the background of general growth”, you will surely be disappointed. Don't invest in VIZ, buy some shitcoin and wait to the Moon. Please pass by. Thanks.
 
-### Содержание
+### Content
 
-[Почему надо инвестировать в ВИЗ](#почему-надо-инвестировать-в-виз)
+[Why invest in a VIZ](#why-invest-in-a-viz)
 
-- Третья деятельность - социальная активность
-- Визономика - экономика социальной активности
-- Блокчейн VIZ - децентрализованная сеть визономики
-- Социальный капитал - нефинансовый инструмент влияния
-- Протоколы социальных взаимодействий - общий язык для приложений
-- Децентрализованное управление - защита от плохих решений
+- The third activity is social activity
+- Visonomics - economics of social activity
+- Blockchain VIZ - a decentralized network of visonomics
+- Social capital is a non-financial instrument of influence
+- Social interaction protocols - a common language for applications
+- Decentralized management - protection against bad decisions
 
-[Токен viz](#токен-viz)
+[Token viz](#token-viz)
 
-- Не деньги
-- Не ценные бумаги
-- Не «билеты» финансовой пирамиды
-- Что такое токен viz?
-- Токены и деньги
-- Оборот ликвидных визов
+- Not money
+- Non-securities
+- Not "tickets" of the financial pyramid
+- What is viz token?
+- Tokens and money
+- The turnover of liquid viz
 
-[Эмиссия в ВИЗе](#эмиссия-в-визе)
+[Emission in VIZ](#emission-in-viz)
 
-- Базовая эмиссия
-- Замороженные токены
-- Влияние делегатов на эмиссию
+- Base emission
+- Frozen tokens
+- Influence of delegates on emissions
 
-[Распределение социального капитала в ВИЗе](#распределение-социального-капитала-в-визе)
+[Distribution of social capital in VIZ](#distribution-of-social-capital-in-viz)
 
-- Первая фаза: тестирование (2018-2020 гг.)
-- Вторая фаза: начало роста (2021-2023 гг.)
-- Третья фаза: формирование зрелой экосистемы (2024-2030 г.г.)
+- First phase: testing (2018-2020)
+- Second phase: start of growth (2021-2023)
+- The third phase: the formation of a mature ecosystem (2024-2030)
 
-[Модель определения ориентировочной ценности viz](#модель-определения-ориентировочной-ценности-viz)
+[Model for assessing the value of viz](#model-for-assessing-the-value-of-viz)
 
-[Как инвестировать в ВИЗ](#как-инвестировать-в-виз)
+[How to invest in VIZ](#how-to-invest-in-viz)
 
-## Почему надо инвестировать в ВИЗ
+## Why invest in a VIZ
 
 ### Третья деятельность - социальная активность
 
