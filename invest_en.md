@@ -44,130 +44,130 @@ You do not need viz tokens if you do not understand what and for whom they are i
 
 ## Why invest in a VIZ
 
-### Третья деятельность - социальная активность
+### The third activity is social activity
 
-В современном мире человек работает, чтобы отдыхать, и отдыхает, чтобы работать. Он работает, получает зарплату, тратит её (а также время и знания) на еду, жильё, одежду, машину, полезный семинар и путёвку в Турцию, чтобы быть достаточно здоровым, сильным и знающим, и лучше работать, получая больше денег на немного более вкусную еду, красивую одежду, дорогую машину, вуз для детей и путёвку на Мальдивы.
+In the modern world, a person works to rest and rests to work. He works, receives a salary, spends it (as well as time and knowledge) on food, housing, clothing, a car, a useful seminar and a trip to Turkey to be healthy enough, strong and knowledgeable, and work better, getting more money for a little more delicious food, nice clothes, an expensive car, a university for children and a trip to the Maldives.
 
-Говоря проще, человек получает ресурсы от других людей, чтобы потратить их на себя, чтобы получать больше ресурсов от других и т.д. - вплоть до смерти или до пенсии.
+Simply, a person receives resources from other people to spend them on himself, to receive more resources from others, etc. - up to death or retirement.
 
-Обе эти сферы жизни - работа и отдых - обслуживаются традиционной экономикой, ключевой элемент которой - добровольный эквивалентный обмен результатами труда при посредничестве денег. 
+Both of these areas of life - work and recreation - are served by the traditional economy, the key element of which is the voluntary equivalent exchange of the results of labor through the mediation of money.
 
-В последние годы активно развивается третья часть жизни человека - социальная активность в больших и разнообразных группах. Это публикации в социальных сервисах, участие в «соседской», гражданской и политической деятельности, сетевые игры, активность в сообществах при брендах, любительский спорт, интерактивные развлечения с голосованием за других участников и многое другое.
+In recent years the third part of human life has been actively developing - social activity in large and diverse groups. These are publications on on social networking services, participation in “neighborhood”, civic and political activities, online games, activity in communities with brands, amateur sports, interactive entertainment with voting for other participants, and much more.
 
-Эта деятельность требует от человека использования имеющихся у него ресурсов (денег, времени, знаний) - так же, как отдых. И в то же время, она приносит пользу или удовольствие другим людям - так же, как работа. Но обмен результатами такой деятельности не связан с деньгами и не стремится быть эквивалентным, как в традиционной экономике. 
+This activity requires a person to use the resources available to him (money, time, knowledge) - as well as rest. And at the same time, it benefits other people or makes them happy - as well as work. But the exchange of the results of such activities is not associated with money and does not seek to be equivalent, as in the traditional economy. 
 
-> Пример  
-> Кто-то постит смешных котиков в Инстаграме не потому что за это платят или он так восстанавливает силы для следующего рабочего дня (иначе он «постил» бы их себе на диск), а потому что пользователь Инстаграма доставляет удовольствие (или даже пользу) другим людям и получает от них позитивную реакцию - лайки и благодарности.
+> Example  
+> Someone posts funny cats on Instagram not because they are paying for it or because they are recuperating for the next working day (otherwise they would have “posted” them to their disk), but because the Instagram user gives pleasure (or even benefit) to other people and receives a positive reaction from them - likes and thankfulness.
 
-В свою очередь, другие люди постят в Твиттер мемы про политиков, доставляя пользу и удовольствие любителю котиков и политиков, за что он им благодарен.
+In turn, other people post memes about politicians on Twitter, bringing benefit and pleasure to the lover of cats and politicians, for which they are thankfulness.
 
-Здесь нет эквивалентного обмена: ему не придётся постить трёх котиков, чтобы посмотреть на один мем с Трампом. Ни в Инстаграме, ни в Твиттере нет биржи, устанавливающей курс обмена лайков, полученных за котиков, на право смотреть мемы с Трампом.
+There is no equivalent exchange here: he doesn't have to post three cats to look at one meme with Trump. There is no exchange on Instagram or Twitter that sets the exchange rate of likes received for cats for the right to watch memes with Trump.
 
-Кроме того, в отличие от денег, заработанных тяжким трудом в офисе, невозможно отложить полученные лайки на будущее, чтобы обменять на полезный совет от специалиста на форуме на финансовом сайте.
+In addition, the  received likes, unlike the money earned by hard work in the office, cannot be put off for the future in order to exchange for useful advice from a specialist on a forum on a financial website.
 
-Получается, что в третьей - социальной - деятельности традиционная экономика не работает: обмен пользой не эквивалентен, сберечь полученную благодарность на будущее невозможно, как и перенести её с одного ресурса на другой. Пока такая деятельность оставалась небольшой частью «отдыха», с подобным положением дел можно было мириться. Сейчас, когда социальная активность занимает существенную часть жизни сотен миллионов людей, пора принимать меры.
+It turns out that in the third - social - activity, the traditional economy does not work: the exchange of benefits is not equivalent, it is impossible to save the received gratitude for the future, as well as to transfer it from one resource to another. As long as such activities remained a small part of the "relaxation", such a state of affairs could be tolerated. Now, when social activity takes up a significant part of the lives of hundreds of millions of people, it is time to take action.
 
-### Визономика - экономика социальной активности
+### Visonomics - economics of social activity
 
-ВИЗ умеет обслуживать социальную активность: он даёт универсальный инструмент для выражения и получения нефинансовой благодарности, сохраняет полученную благодарность в виде социального капитала человека и делает использование накопленного социального капитала простым, интуитивно понятным и эффективным - как в «онлайне», так и в «офлайне».
+VIZ is able to serve social activity: it provides a universal tool for expressing and receiving non-financial thankfulness, preserves the received thankfulness in the form of a person's social capital and makes the use of accumulated social capital simple, intuitive and effective - both online and offline ...
 
-ВИЗ - это не часть экономики, это целая экономика - экономика того, что нельзя оценить деньгами, экономика целого мира социальных связей и взаимодействий. Упомянем некоторые элементы этого мира.
+VIZ is not a part of the economy, it is a whole economy - the economy of something that cannot be estimated with money, the economy of the whole world of social relations and interactions. Let's mention some of the elements of this world.
 
-**Социальные сервисы**. Соцсети, мессенджеры с публичными группами и каналами, блог-сервисы, видеохостинги с оценками пользователей, форумы. Facebook, Twitter, YouTube, Telegram, VK, Medium.
+**Social networking services**. Social networks, messengers with public groups and channels, blog services, video hosting sites with user ratings, forums. Facebook, Twitter, YouTube, Telegram, VK, Medium.
 
-**Супераппы**. Крупная компания создаёт или объединяет множество сервисов, закрывающих совершенно разные потребности клиентов, вокруг одного логина пользователя. В супераппах часто можно ставить оценки или лайки сервисам и исполнителям работ, а также другим пользователям. WeChat, Яндекс, Сбер.
+**Superappas**. A large company creates or combines many services that cover completely different customer needs, around one user login. In superapps, you can often rate or like services and work performers, as well as other users. WeChat, Yandex, Sberbank.
 
-**ТВ**. Телевидение предлагает всё больше интерактивных программ, в которых зрители могут как минимум выбрать лучшего по их мнению участника шоу или соревнования, как максимум - принять участие в развитии сюжета. «Танцы со звёздами» (оценки зрителей), Formula 1 (выбор лучшего пилота гонки), Eurovision Song Contest.
+**TV**. Television offers more and more interactive programs in which viewers can at least choose the best participant in a show or competition in their opinion, as a maximum - take part in the development of the plot. "Dancing with the Stars" (audience ratings), Formula 1 (choosing the best driver in the race), Eurovision Song Contest.
 
-**Рейтинги, системы оценки услуг и товаров**. Оценка товаров и услуг покупателями есть практически в каждом интернет-магазине. Существует и масса сервисов, специализирующихся на сборе и анализе таких оценок. Amazon, IMDB, Яндекс Маркет, Booking.com.
+**Rating of the system of services and goods**. The evaluation of goods and services by buyers is available in almost every online store. There are many services that specialize in collecting and analyzing such estimates. Amazon, IMDB, Yandex Market, Booking.com.
 
-А также программы лояльности в бизнесе, сервисы знакомств, службы взаимной технической поддержки, сервисы ответов на вопросы, wiki-подобные ресурсы и, наконец, прямые благодарности людей друг другу.
+As well as business loyalty programs, dating services, mutual technical support services, answering services, wiki-like resources and, finally, direct thankfulness of people to each other.
 
-Любое взаимодействие между людьми, в котором присутствует «лайк», оценка, благодарность или голосование, может быть улучшено с помощью ВИЗа и может обслуживаться ВИЗом. Это и есть экономика Третьей деятельности, экономика социальной активности или просто визономика.
+Any interaction between people in which there is a "like", rating, thankfulness or vote can be improved with the VIZ and can be serviced by the VIZ. This is the economy of the Third Activity, the economy of social activity, or simply visonomics.
 
-### Блокчейн VIZ - децентрализованная сеть визономики
+### Blockchain VIZ - a decentralized network of visonomics
 
-Так же как блокчейн Bitcoin хранит и передаёт финансовую ценность, т.е. финансовый капитал, блокчейн VIZ хранит и передаёт социальную ценность, принадлежащую человеку, т.е. его социальный капитал.
+As well as Bitcoin blockchain stores and transfers financial value, i.e. financial capital, the VIZ blockchain stores and transfers social value belonging to a person, i.e. its social capital.
 
-> **Подробнее об устройстве блокчейна VIZ**
+> **More about the structure of the VIZ blockchain**
 
-> Блокчейн VIZ устроен так, что доступ к использованию социального капитала имеет только его владелец или тот, кому он передал право такого доступа (ключи от аккаунта). При этом есть три уровня доступа - от практически не доставляющего проблем при компрометации до полного - что делает использование блокчейна более безопасным и удобным.
+> The VIZ blockchain is designed so that only its owner or the one to whom he transferred the right of such access (account keys) has access to the use of social capital. At the same time, there are three levels of access: from practically not causing problems in case of compromise to complete, which makes the use of the blockchain safer and more convenient.
 
-> Алгоритм консенсуса [Fair DPoS](https://control.viz.world/media/@on1x/fair-dpos/) в блокчейне VIZ исключает успешность «атаки 51%». Для цензурирования или подделки транзакций злоумышленникам надо стать делегатами и получить голоса от владельцев порядка 90% социального капитала, при этом эффективно разделив их среди «своих» делегатов, подписывающих блоки. Такая концентрация голосов на практике невозможна. Поэтому никакая сила не в состоянии цензурировать транзакции пользователей, разрешать или запрещать им делать что-либо из того, что позволяет делать код. 
+> The consensus algorithm [Fair DPoS](https://control.viz.world/media/@on1x/fair-dpos/) in the VIZ blockchain excludes the success of the 51% attack. To censor or forge transactions, attackers need to become delegates and get votes from the owners of about 90% of social capital, while effectively dividing them among “their” delegates who sign blocks. In practice, such a concentration of votes is impossible. Therefore, no force is able to censor user transactions, allow or forbid them to do anything that the code allows to do. 
 
-> Окончательность транзакции в блокчейне VIZ наступает примерно через минуту после её совершения, но в реальности приложениям обычно достаточно одного подтверждения транзакции топ-делегатом, что занимает не более 6 секунд.
+> The finality of a transaction on the VIZ blockchain occurs about a minute after its completion, but in reality, applications usually only need one confirmation of the transaction by a top delegate, which takes no more than 6 seconds.
 
-> Общий объём передаваемых данных больше зависит от технических параметров нод (серверов) блокчейна, чем от его кода, при этом размер отдельной транзакции обычно составляет несколько десятков байтов, то есть в каждый блок (каждые 3 секунды) могут записываться тысячи обычных транзакций.
+> The total amount of transmitted data depends more on the technical parameters of the nodes (servers) of the blockchain than on its code, while the size of an individual transaction is usually several tens of bytes, therefore, thousands of ordinary transactions can be written to each block (every 3 seconds).
 
-> В блокчейне VIZ нет смарт-контрактов, вся логика взаимодействий с аккаунтами вынесена на уровень приложений. Они могут как напрямую транслировать транзакции в блокчейн, так и «имитировать» транзакции, периодически записывая в блокчейн обновлённое состояние, что экономит ресурсы блокчейна.
+> There are no smart contracts in the VIZ blockchain, all the logic of interactions with accounts is moved to the application level. They can both broadcast transactions directly to the blockchain and "imitate" transactions, periodically writing an updated state to the blockchain, which saves blockchain resources.
 
-Блокчейн VIZ - простой, гибкий, быстрый, позволяющий проводить огромное количество транзакций и защищённый от атак. Накопленный пользователем социальный капитал надёжно хранится и легко используется. Децентрализация позволяет не беспокоиться о возможности цензурирования наград, а вынос логики на уровень приложений упрощает их разработку.
+The VIZ blockchain is simple, flexible, fast, allowing a huge number of transactions and protected from attacks. The social capital accumulated by the user is securely stored and easily used. Decentralization allows you not to worry about the possibility of censoring awards, and bringing the logic to the application layer simplifies their development.
 
-В визономике блокчейн выступает в роли неизменяемой и неподкупной «памяти» всех участников и инструмента для использования накопленных в этой «памяти» данных.
+In visonomics, the blockchain acts as an immutable and incorruptible "memory" of all participants and a tool for using the data accumulated in this "memory".
 
-Кроме того, как и в реальном мире, прежние заслуги участников ВИЗа со временем теряют ценность: постоянная небольшая эмиссия новых токенов (10% в год) постепенно снижает влияние старого социального капитала на распределение наград.
+In addition, as in the real world, the former merits of the VIZ participants lose value over time: the constant small emission of new tokens (10% per year) gradually reduces the influence of the old social capital on the distribution of awards.
 
-### Социальный капитал - нефинансовый инструмент влияния
+### Social capital is a non-financial instrument of influence
 
-Человек с большим социальным капиталом (накопивший благодарности и хорошее отношение окружающих) имеет преимущества по сравнению с «ноунеймом». Другие люди охотнее оказывают ему услуги, делают что-то полезное или приятное, не требуя прямой оплаты. Это связано с более высокой ценностью благодарности такого человека.
+A person with large social capital (who has accumulated thankfulness and a good attitude from others) has advantages over “no-name”. Other people are more willing to provide him with services, do something useful or pleasant, without requiring direct payment. This is due to the higher value of the thankfulness of such a person.
 
-> Пример  
-> Популярному блогеру достаточно намекнуть, что он был бы не против бесплатной экскурсии в незнакомом городе, и он получит как минимум несколько предложений. Успешный спортсмен использует свой статус (социальный капитал) для продвижение политических или гражданских взглядов. Активный участник Телеграм-чата, помогавший многим новичкам освоить сложную программу, с большей вероятностью получит ответ на вопрос не по теме чата, чем неизвестный пользователь, которого могут просто забанить за оффтоп.
+> Example  
+> It is enough for a popular blogger to hint that he would not mind a free tour in an unfamiliar city, and he will receive at least a few offers. A successful athlete uses his status (social capital) to advance political or civic views. An active participant in the Telegram chat, who helped many newbies to deal with a complex program, is more likely to receive an answer to a question not related to the chat topic than an unknown user who can simply be banned for offtopic.
 
-Цифровой социальный капитал в ВИЗе делает статус человека (правильнее - аккаунта) видимым, и переносимым из одного сообщества в другое. Большой социальный капитал в ВИЗе означает, что его владелец принёс много пользы другим людям - непосредственно своими действиями или покупкой визов, которая придала ценность чужому социальному капиталу.
+Digital social capital in the VIZ makes the status of a person (more correctly, an account) visible and transferable from one community to another. Large social capital in a VIZ means that its owner has brought a lot of benefit to other people - directly by their actions or by purchasing vizes, which has added value to someone else's social capital.
 
-Зависимость размера наград от размера социального капитала позволяет дифференцировать влияние участников ВИЗа на других. Люди охотнее принесут пользу или удовольствие обладателю большого социального капитала, так как он может сильнее наградить в благодарность за эту пользу.
+The dependence of the size of awards on the size of social capital allows differentiating the influence of VIZ participants on others. People are more willing to bring benefit or pleasure to the owner of large social capital, since he can award more in thankfulness for this benefit.
 
-Несмотря на то, что визы можно купить и продать, сам обмен пользой и наградами не носит финансовый характер, так как размер награды - дело доброй воли награждающего, а не заранее согласованная сумма визов. Взаимодействия участников ВИЗа в цикле «польза - награда - польза’» происходят за пределами традиционной экономики и не являются сделками.
+Despite the fact that visas can be bought and sold, the exchange of benefits and awards itself is not financial in nature, since the size of the award is a matter of goodwill of the awarding person, and not a pre-agreed amount of vizes. The interactions of VIZ participants in the “benefit-award-benefit” cycle occur outside the traditional economy and are not transactions.
 
-Цифровой социальный капитал может принадлежать не только человеку, но и организации, группе людей или боту. Соответственно, влияние, оказываемое социальным капиталом, можно разделить на несколько направлений:
+Digital social capital can belong not only to a person, but also to an organization, a group of people, or a bot. Accordingly, the influence of social capital can be divided into several directions:
 
-> **p2p** - человек с помощью наград влияет на других людей, стимулируя их приносить ему нефинансовую пользу;
+> **p2p** - a person with the help of awards influences other people, stimulating them to bring him non-financial benefits;
 
-> **p2b** - человек оказывает влияние или высказывает мнение в адрес бизнеса, политической организации, общественной инициативы и т.п.;
+> **p2b** - a person influences or expresses an opinion about business, political organization, public initiative, etc .;
 
-> **b2p** - организация увеличивает социальный капитал людей, приносящих ей пользу (бизнес награждает клиентов), или стимулирует их действовать определённым образом (политическая партия награждает сторонников).
+> **b2p** - the organization increases the social capital of people who benefit it (business awards customers), or stimulates them to act in a certain way (a political party awards supporters).
+ 
+### Social interaction protocols - a common language for applications
 
-### Протоколы социальных взаимодействий - общий язык для приложений
+The logic and context of interaction between VIZ participants are moved to the application level, that is, there are no smart contracts in VIZ that are executed directly in the blockchain. However, there is an "intermediate" solution using the properties of both private applications and the "general" blockchain: protocols.
 
-Логика и контекст взаимодействия участников ВИЗа вынесены на уровень приложений, то есть в VIZ’е нет смарт-контрактов, выполняемых непосредственно в блокчейне. Тем не менее, существует «промежуточное» решение, использующее свойства как частных приложений, так и «общего» блокчейна: протоколы.
+In the VIZ blockchain, you can save not only strictly defined data (awards, token transfers, etc.), but also free text records. Such records can be structured by the creator of the application. If the creators of other applications agree to save some data with a given structure and read it for their own purposes, then such a structure becomes a general protocol for records of a certain type.
 
-В блокчейн VIZ можно сохранять не только строго определённые данные (награды, переводы токенов и т.п.), но и свободные текстовые записи. Такие записи могут иметь структуру, разработанную создателем приложения. Если создатели других приложений согласны сохранять некие данные с заданной структурой и считывать их в своих целях, то такая структура становится общим протоколом для записей определённого типа.
-
-> Пример  
-> Допустим, кто-то разработал протокол, описывающий профиль участника ВИЗа: 
+> Example  
+> Let's say someone has developed a protocol describing the profile of a VIZ participant: 
 >
 > name:”...”; about:”...”; date_of_birth:”...”; gender:”...”; nationality:”...”; telegram:”...”; fb:”...”
 >
-> Тогда любое приложение может сохранять данные своих пользователей в блокчейн в таком формате и считывать данные как своих, так и любых других пользователей, показывая их в удобном виде. 
+> Then any application can save the data of its users in the blockchain in this format and read the data of both its own and any other users, showing them in a convenient form. 
 
-Протоколы могут быть весьма сложными и содержать структуру данных для любых приложений: социальных сетей, мессенджеров, пользовательских токенов и совсем экзотических решений. 
+Protocols can be very complex and contain a data structure for any application: social networks, messengers, user issued assets, and completely exotic solutions. 
 
-> Пример  
-> В ВИЗе описан [протокол Whisper](https://control.viz.world/media/@on1x/ru-viz-whisper-protocol/) для обмена сообщениями между пользователями, при котором внешний наблюдатель не сможет определить ни отправителя, ни адресата, ни содержание сообщения, несмотря на то, что оно находится в публичном блокчейне.
+> Example 
+> The VIZ describes the [Whisper protocol](https://control.viz.world/media/@on1x/ru-viz-whisper-protocol/) for the exchange of messages between users, in which an external observer cannot determine either the sender or the addressee nor the content of the message, even though it is on the public blockchain.
 
-Говоря иначе, протоколы в ВИЗе - это добровольно принимаемые разработчиками приложений стандарты обмена информацией через блокчейн. Приложения, работающие на одном протоколе, имеют общую пользовательскую базу, но конкурируют, предлагая пользователям свои уникальные особенности: удобный дизайн, дополнительную фильтрацию и обработку данных (или её принципиальное отсутствие), анализ данных и т.п.
+In other words, the protocols in the VIZ are standards for the exchange of information through the blockchain voluntarily adopted by application developers. Applications running on the same protocol have a common user base, but compete, offering users their own unique features: user-friendly design, additional filtering and data processing (or its fundamental absence), data analysis, etc.
 
-> Пример  
-> Одни приложения, работающие на протоколе социальной сети, могут блокировать для своих пользователей некоторые аккаунты (спам, порнографию или кремлеботов), а другие - наоборот, показывать только разрешённые специальным алгоритмом аккаунты, в то время как третьи ничего не блокируют, декларируя свободу слова. При этом единая «база данных» сообщений у всех приложений будет располагаться в блокчейне.
+> Example  
+> Some applications running on the social network protocol can block some accounts for their users (spam, pornography or kremlebots), while others, on the contrary, show only accounts allowed by a special algorithm, while third one do not block anything, declaring freedom of speech. At the same time, a single "database" of messages for all applications will be located in the blockchain.
 
-Похожие протоколы, созданные разными разработчиками, могут дополнять друг друга или конкурировать между собой, эволюционно развивая экосистему ВИЗа.
+Similar protocols created by different developers can complement each other or compete with each other, evolving the VIZ ecosystem.
 
-Один из первых готовых и активно развивающихся протоколов в ВИЗе - протокол распределённой социальной сети без цензуры. Он обеспечивает возможность публиковать и получать информацию без какого-либо контроля с чьей-либо стороны, кроме самого пользователя. В том числе, существует бессерверный клиент социальной сети [Readdle.Me](https://readdle.me/), который работает непосредственно в браузере пользователя и связывается напрямую с блокчейном без посредничества какого-либо сервера.
+One of the first ready-made and actively developing protocols in VIZ is a distributed social network protocol without censorship. It provides the ability to publish and receive information without any control from anyone other than the user himself. Among other things, there is a serverless social network client [Readdle.Me](https://readdle.me/) that works directly in the user's browser and communicates directly with the blockchain without the mediation of any server.
 
-### Децентрализованное управление - защита от плохих решений
+### Decentralized management - protection against bad decisions
 
-У ВИЗа нет и не может быть владельца, «главного акционера», директора или «босса» в любом смысле. Но нет и анархии. Система управления хорошо сбалансирована: в ней есть группа избранных (в прямом смысле) участников, которые принимают решения, но состав этих участников (они называются «делегаты») частично ротируется каждую минуту и может быстро меняться, если их действия не устраивают владельцев социального капитала.
+VIZ does not and cannot have an owner, “main shareholder”, director or “boss” in any sense. But there is no anarchy either. The governance system is well balanced: it has a group of selected (literally) participants who make decisions, but the composition of these participants (they are called “delegates”) partially rotates every minute and can change rapidly if their actions do not suit the owners of social capital.
 
-Для принятия ключевых решений, связанных с изменением кода блокчейна, требуется согласие минимум 17 делегатов, из которых минимум 7 должны входить в число избранных топ-11. При этом вероятность участия в голосовании за изменение кода для делегатов не из топ-11 напрямую зависит от их позиции в списке делегатов, то есть они также должны иметь существенную поддержку владельцев социального капитала. Иначе говоря, злоумышленники, желающие изменить код блокчейна против воли обычных участников ВИЗа, должны гарантировать себе минимум 7 мест в топе и 10 мест как можно ближе к топу (а лучше - значительно больше). Для этого им потребуется поддержка порядка 90% социального капитала в системе, что представляется крайне маловероятным.
+To make key decisions related to changing the blockchain code, the consent of at least 17 delegates is required, of which at least 7 must be among the selected top 11. At the same time, the likelihood of participation in the vote for changing the code for delegates not from the top 11 directly depends on their position in the list of delegates, that is, they should also have significant support from the owners of social capital. In other words, attackers who want to change the blockchain code against the will of ordinary VIZ participants must guarantee themselves a minimum of 7 places in the top and 10 places as close to the top as possible (or better, much more). To do this, they will need the support of about 90% of the social capital in the system, which seems extremely unlikely.
 
-С другой стороны, ВИЗ имеет необычно гибкую и объёмную систему технических и экономических настроек блокчейна. Для регулирования текущей деятельности блокчейна консенсус не требуется: настройки устанавливаются на базе медианного значения параметров, заданных делегатами. Соответственно, делегаты могут быстро реагировать на потребности сообщества, подстраивая параметры блокчейна под текущую ситуацию.
+On the other hand, VIZ has an unusually flexible and voluminous system of technical and economic settings for the blockchain. To regulate the current activities of the blockchain, consensus is not required: the settings are set based on the median value of the parameters set by the delegates. Accordingly, delegates can quickly respond to the needs of the community by adjusting the blockchain parameters to the current situation.
 
-Система управления в ВИЗе построена с учётом ошибок, допущенных создателями других блокчейнов, где решения принимаются похожим образом. В ВИЗе крупнейшие участники могут влиять на решения, поддерживая своим социальным капиталом тех делегатов, что готовы выполнять их пожелания. Но даже совместной силы нескольких крупнейших участников не хватит, чтобы «захватить» блокчейн. А если им удастся собрать в поддержку своего решения более 90% социального капитала, то это уже не «захват», а легитимная поддержка.
+The control system in VIZ is built taking into account the mistakes made by the creators of other blockchains, where decisions are made in a similar way. In the Visa, the largest participants can influence decisions by supporting those delegates with their social capital who are ready to fulfill their wishes. But even the combined strength of several of the largest participants will not be enough to "capture" the blockchain. And if they manage to collect more than 90% of social capital in support of their decision, then this is no longer a "capture", but legitimate support.
 
-## Токен viz
+## Token viz
 
-### Не деньги
+### Not money
 
 Токены viz - не криптовалюта, не коины, не монеты, не средство расчётов. Конечно, как и любой криптоактив и любую стандартную вещь в реальном мире, визы можно обменять на что-то другое, используя их как меру стоимости. Таким же образом можно использовать сигареты, консервы, чугунные болванки, почтовые марки и бутылки водки. Но возможность использования не делает все эти активы деньгами в общем смысле. 
 
