@@ -20,7 +20,7 @@ You do not need viz tokens if you do not understand what and for whom they are i
 [Token viz](#token-viz)
 
 - Not money
-- Non-securities
+- Not securities
 - Not "tickets" of the financial pyramid
 - What is viz token?
 - Tokens and money
@@ -169,62 +169,62 @@ The control system in VIZ is built taking into account the mistakes made by the 
 
 ### Not money
 
-Токены viz - не криптовалюта, не коины, не монеты, не средство расчётов. Конечно, как и любой криптоактив и любую стандартную вещь в реальном мире, визы можно обменять на что-то другое, используя их как меру стоимости. Таким же образом можно использовать сигареты, консервы, чугунные болванки, почтовые марки и бутылки водки. Но возможность использования не делает все эти активы деньгами в общем смысле. 
+Viz tokens are not cryptocurrencies, not coins, not instrument of payment. Of course, like any crypto asset and any standard thing in the real world, vizes can be exchanged for something else, using them as a measure of value. In the same way you can use cigarettes, canned food, cast iron blanks, postage stamps and bottles of vodka. But useability does not make all of these assets money in a general sense.
 
-Токены viz нужны для определённых целей в определённых ситуациях, а их теоретически возможная функция платёжного посредника в сделках не является основной.
+Viz tokens are needed for certain purposes in certain situations, and their theoretically possible function of a payment intermediary in transactions is not the main one.
 
-### Не ценные бумаги
+### Not securities
 
-Токены viz - не акции, не облигации, не фьючерсы, не опционы и даже не CDS. Проще говоря, не ценные бумаги. Токены viz не эмитируются какой-либо организацией, не являются долей в бизнесе или чьим-либо обязательством, не отражают ценность какого-либо другого актива, не обещают прибыль.
+Viz tokens are not stocks, bonds, futures, options, or even CDS. Simply put, not securities. Viz tokens are not issued by any organization, do not represent a share in a business or someone else's obligation, do not reflect the value of any other asset, do not promise profit.
 
-Первоначальное распределение токенов viz происходило бесплатно, по доброй воле неизвестного лица и не было связано с какими-либо обязательствами. Все дальнейшие денежные сделки с токенами не являлись и не будут являться эмиссией, стороны таких сделок лишь перепродают друг другу существующий цифровой актив, исходя из своих намерений в отношении использования данного актива.
+The initial distribution of viz tokens was free of charge, by the free will of an unknown person and was not associated with any obligations. All further monetary transactions with tokens were not and will not be an emission, the parties to such transactions only resell an existing digital asset to each other, based on their intentions to use this asset.
 
-### Не «билеты» финансовой пирамиды
+### Not "tickets" of the financial pyramid
 
-В экономике ВИЗа нет сбора средств для инвестиций во внешние активы и нет дохода от таких активов, поэтому никто не может обещать никаких «выплат», «дивидендов», «процентов» и т.п. владельцам токенов. 
+In the VIZ economy, there is no fundraising for investment in foreign assets and there is no income from such assets, so no one can promise any "payments", "dividends", "interest", etc. to token holders.
 
-В ВИЗе нет «центрального органа», который покупает и продаёт токены, назначая их цену. Цена токена, выраженная в деньгах или криптовалюте, определяется исключительно в ходе частных сделок равноправных участников.
+The VIZ does not have a “central authority” that buys and sells tokens, setting their price. The price of a token, expressed in money or cryptocurrency, is determined exclusively in the course of private transactions of equal participants.
 
-Токены имеют определённое назначение - они обслуживают нефинансовые транзакции между участниками экосистемы.
+Tokens have a specific purpose - they service non-financial transactions between ecosystem participants.
 
-### Что такое токен viz?
+### What is viz token?
 
-Несмотря на то, что экосистема ВИЗа и визономика находятся за пределами обычной экономики и обычных финансов, ей необходим инструмент учёта основной ценности - цифрового социального капитала. В качестве такого инструмента выступают токены viz, обращающиеся в блокчейне VIZ.
+Despite the fact that the VIZ ecosystem and visonomics are outside the ordinary economy and ordinary finance, it needs a tool to take into account the main value - digital social capital. Such a tool is viz tokens circulating in the VIZ blockchain.
 
-Основная функция токенов viz - служить единицей измерения цифрового социального капитала участников ВИЗа.
+The main function of viz tokens is to serve as a unit of measurement of the digital social capital of VIZ participants.
 
-Рост человека измеряется сантиметрами, вес - килограммами, финансовый капитал - теми или иными деньгами, достижения в шахматах - баллами рейтинга ELO, а социальный капитал - визами. Сам по себе токен ничем не «обеспечен», не отражает ценность какого-то иного актива, не является финансовым инструментом.
+A person's height is measured in centimeters, weight - in kilograms, financial capital - with one or other money, achievements in chess - with ELO rating points, and social capital - with vizes. The token itself is not "secured", does not reflect the value of any other asset, and is not a financial instrument.
 
-Визы могут находится в одной из двух форм: низколиквидной (в социальном капитале) и полностью ликвидной («в кошельке» или «на счёте»). Вывод 100% визов из социального капитала в ликвидное состояние происходит за 28 итераций, каждая - один раз в сутки (делегаты могут менять это значение). Меньшее количество визов выводится пропорционально быстрее. Обратный перевод - из ликвидного состояния в социальный капитал происходит мгновенно.
+Vizes can be in one of two forms: low liquid (in social capital) and fully liquid (“in the wallet” or “on the account”). The withdrawal of 100% of vizes from social capital to a liquid state occurs in 28 iterations, each one once a day (delegates can change this value). Fewer vizes are withdrawal proportionally faster. The reverse transfer - from a liquid state to social capital occurs instantly.
 
-### Токены и деньги
+### Tokens and money
 
-Визономика в целом самодостаточна: визы обслуживают распределение и оборот социального капитала, который сам по себе является ценностью и не требует внешней оценки в деньгах. Не существует какого-либо центрального оператора, обязанного продавать или покупать визы по каким-либо ценам, но ликвидные токены свободно обмениваются на криптовалюты или деньги в ходе частных сделок. 
+On the whole, visonomics is self-sufficient: vizes serve the distribution and circulation of social capital, which is a value in itself and does not require external evaluation in terms of money. There is no central operator obligated to sell or buy vizes at any price, but liquid tokens are freely exchanged for cryptocurrencies or money through private transactions.
 
-Возможность купить визы (и в конечном итоге увеличить социальный капитал за деньги) позволяет участникам ВИЗа быстрее наращивать своё нефинансовое влияние и сильнее стимулировать окружающих приносить пользу. В свою очередь, продажа излишков визов помогает участникам финансировать расходы на техническое обеспечение работы блокчейна и приложений и зарабатывать на социальной активности.
+The ability to buy vizes (and ultimately increase social capital for money) allows VIS participants to quickly increase their non-financial influence and more stimulate others to be useful. In turn, the sale of surplus vizes helps participants finance the costs of maintaining the blockchain and applications and earn from social activities.
 
-Кроме того, пока самоценность социального капитала не стала очевидной для всех, рыночная цена визов делает более понятной ценность наград. Это стимулирует участников ВИЗа поддерживать свой капитал на уровне, при котором раздаваемые ими награды достаточно «весомы» для получателей.
+In addition, until the intrinsic value of social capital has become apparent to everyone, the market price of vizes makes the value of awards more understandable. This encourages VIZ participants to maintain their capital at a level at which the awards they give out are sufficiently "weighty" for the recipients.
 
-> Пример  
-> Участник ВИЗа имеет социальный капитал, позволяющий делать 20 наград в день в среднем на 1,5 viz за каждую награду. При рыночной цене виза 1 цент награда воспринимается как «достаточная». Но при цене 0,2 цента участнику стоит задуматься об увеличении капитала или снижении количества наград, чтобы каждая награда была более «весомой» для получателя. И наоборот: если viz стоит 10 центов, можно продать часть капитала или увеличить количество наград, так как 15 центов за лайк может показаться избыточной наградой.
+> Example  
+> The VIZ participant has social capital that allows him to make 20 awards per day with an average of 1.5 viz for each award. At the market price of a viz of 1 cent, the reward is perceived as “sufficient”. But with a price of 0.2 cents, the participant should think about increasing capital or reducing the number of awards, so that each award is more "weighty" for the recipient. Conversely, if a viz costs 10 cents, you can sell some of the capital or increase the number of rewards, since 15 cents per like may seem like an excessive award.
 
-С развитием ВИЗа ориентация на «денежную» стоимость наград перестанет играть существенную роль: социальный капитал станет самодостаточной ценностью, а отношение к размеру наград будет основываться на соотношении размера награды и среднего размера социального капитала человека. 
+With the development of VIZs, the focus on the “monetary” value of awards will cease to play a significant role: social capital will become a self-sufficient value, and the attitude towards the size of awards will be based on the ratio between the size of the award and the average size of a person's social capital.
 
-### Оборот ликвидных визов
+### The turnover of liquid viz
 
-Несмотря на то, что ВИЗ ориентирован на концепцию цифрового социального капитала, в нём заложена возможность использования полностью ликвидных токенов для различных операций. Перечислим имеющиеся варианты.
+Despite the fact that VIZ is focused on the concept of digital social capital, it has the ability to use fully liquid tokens for various operations. Let's list the available options.
 
-**Перенос социального капитала между аккаунтами** - основная функция ликвидных токенов viz. В ВИЗе невозможно перенести социальный капитал напрямую с одного аккаунта на другой. Для этого его надо вывести в ликвидные токены, переслать их на другой аккаунт и там снова завести в капитал. При желании, некоторое количество токенов можно оставить и хранить в «кошельке», но в таком виде они не приносят пользы владельцу, так как не учитываются при наградах.
+**Transferring social capital between accounts** - the main function of viz liquid tokens. In VIZ, it is impossible to transfer social capital directly from one account to another. To do this, it must be withdrawn into liquid tokens, sent to another account and there again to be capitalized. If desired, a certain number of tokens can be left and stored in the "wallet", but in this form they do not benefit the owner, since they are not taken into account when awards.
 
-Также ликвидные viz’ы необходимы для **оплаты комиссий** при некоторых редких действиях в блокчейне: создание заявки в Фонд ДАО, выставление аккаунта на продажу, объявление аккаунта делегатом и пр. Это сделано для защиты блокчейна от спама заявками. Размеры комиссий определяются делегатами.
+Also, liquid viz's are required to **pay commissions** for some rare actions in the blockchain: creating an application to the DAO Fund, setting an account for sale, declaring an account as a delegate, etc. This is done to protect the blockchain from spam with applications. The size of the commissions is determined by the delegates.
 
-В ликвидных токенах **выплачиваются средства из Фонда ДАО**.
+In liquid tokens **funds are paid from the DAO Fund**.
 
-В ВИЗе работает уникальная функция **рекуррентных (автоматически повторяющихся) платежей** ликвидными токенами непосредственно через блокчейн. Её очевидное применение - оплата любого вида подписки - на контент, товары, услуги, благотворительные платежи и пр.
+VIZ has a unique feature **recurrent (automatically recurring) payments** with liquid tokens directly through the blockchain. Its obvious application is paying for any kind of subscription - for content, goods, services, charitable payments, etc.
 
-Для передачи ликвидных токенов вне сети используются **чеки**. Пользователь «выписывает чек», блокируя некоторое количество токенов и связывая их с парой публичный/приватный ключ, и передаёт чек (ключи) другому пользователю любым способом вне блокчейна (лично, по электронной почте, через мессенджер и т.п.). Получатель может в любой момент «обналичить» чек на свой аккаунт. 
+**Checks** are used to transfer liquid tokens outside the network. The user "writes a check", blocking a certain number of tokens and associating them with a public / private key pair, and transfers the check (keys) to another user in any way outside the blockchain (in person, by email, via a messenger, etc.). The recipient can “cash” the check into his account at any time.
 
-Наконец, визы используются **в качестве криптовалюты** - для мгновенной оплаты товаров и услуг без комиссии простым переводом. Это не основная функция, но если кто-то готов принимать визы в оплату за что-то, а кто-то готов ими платить, то блокчейн VIZ позволяет это делать.
+Finally, vizes are used **as a cryptocurrency** - to instantly pay for goods and services without commission by a simple transfer. This is not the main function, but if someone is ready to accept vizes in payment for something, and someone is willing to pay with them, then the VIZ blockchain allows you to do this.
 
 ## Эмиссия в ВИЗе
 
