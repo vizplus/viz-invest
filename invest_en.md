@@ -226,31 +226,31 @@ VIZ has a unique feature **recurrent (automatically recurring) payments** with l
 
 Finally, vizes are used **as a cryptocurrency** - to instantly pay for goods and services without commission by a simple transfer. This is not the main function, but if someone is ready to accept vizes in payment for something, and someone is willing to pay with them, then the VIZ blockchain allows you to do this.
 
-## Эмиссия в ВИЗе
+## Emission in VIZ
 
-### Базовая эмиссия
+### Base emission
 
-Темпы эмиссии токенов viz заданы в коде блокчейна и могут меняться только консенсусным решением делегатов. Изначально и до сих пор годовая эмиссия составляет 10% от общего количества viz по состоянию на последнее 29 сентября. В течение года эмиссия токенов происходит равными порциями в каждом блоке.
+The emission rates of viz tokens are set in the blockchain code and can only be changed by a consensus decision of delegates. Initially and until now, the annual emission is 10% of the total number of viz as of the last September 29th. During the year, tokens are emitted in equal portions in each block.
 
-Стартовое количество токенов составляло 50 миллионов, соответственно, за первый год было эмитировано 5 млн новых токенов, за второй - 5,5 млн и т.д. 
+The initial number of tokens was 50 million, respectively, 5 million new tokens were emitted in the first year, 5.5 million in the second, etc.
 
-Эмитированные токены в каждом блоке автоматически распределяются по трём направлениям: оплата подписания блока делегатом, награды и Фонд ДАО. Доли распределения определяются делегатами, но, в отличие от темпа эмиссии, изменение долей не требует консенсуса, они считаются по медиане публикуемых делегатами значений.
+The emitted tokens in each block are automatically distributed in three directions: payment for the signing of the block by the delegate, awards and the DAO Fund. Distribution shares are determined by delegates, but, unlike the emission rate, changes in shares do not require consensus, they are calculated according to the median of values published by delegates.
 
-### Замороженные токены
+### Frozen tokens
 
-В конце декабря 2019 года участники ВИЗа on1x и ae приняли решение заморозить существенную часть своих активов (28 млн и 4 млн viz соответственно) с последующей постепенной разморозкой в течение семи лет. Замороженные токены невозможно получить раньше срока без консенсусного решения делегатов, что представляется крайне маловероятным.
+At the end of December 2019, VIZ participants on1x and ae decided to freeze a significant part of their assets (28 million and 4 million viz, respectively), followed by a gradual unfreezing over seven years. Frozen tokens cannot be received ahead of schedule without a consensus decision of the delegates, which seems extremely unlikely.
 
-Соответственно, начиная с января 2020 года, в реальном обороте в визономике находится намного меньше токенов, чем было изначально эмитировано. При этом темпы основной эмиссии остались прежними, а постепенную разморозку токенов можно считать «дополнительной» эмиссией. В результате, если говорить о реальных темпах поступления токенов в оборот, они выше формальных: от 28% в 2020 году до 18% в 2026 году. Начиная с 2027 года, темпы формальной и реальной эмиссии сравняются, так как все ранее замороженные токены будут разморожены.
+Accordingly, since January 2020, there are much fewer tokens in real turnover in visonomics than were originally emitted. At the same time, the rates of the main emission remained the same, and the gradual unfreezing of tokens can be considered an "additional" emission. As a result, if we talk about the real rates of token circulation, they are higher than the formal ones: from 28% in 2020 to 18% in 2026. Starting in 2027, the rates of formal and real emission will equalize, as all previously frozen tokens will be unfrozen.
 
 ![Количество viz в обращении по годам](https://github.com/vizplus/viz-invest/blob/main/vizsupply.png)
 
-### Влияние делегатов на эмиссию
+### Influence of delegates on emissions
 
-Делегаты могут влиять на эмиссию токенов viz двумя способами.
+Delegates can influence the emission of viz tokens in two ways.
 
-Во-первых, теоретически, они могут обновить код блокчейна, чтобы изменить сам размер эмиссии. Это действие требует консенсусного решения, то есть даже при небольшой «оппозиции» будет заблокировано.
+First, in theory, they can update the blockchain code to change the size of the emission itself. This action requires a consensus decision, that is, even with a small "opposition" it will be blocked.
 
-Во-вторых, делегаты могут менять параметры распределения эмиссии по направлениям, что делается намного проще и не требует вмешательства в код. Такое изменение может повлечь значимые последствия для всей визономики, так как от распределения эмиссии зависит размер наград, то есть эффективность использования социального капитала. А увеличение или уменьшение отчислений в Фонд ДАО изменит привлекательность работы в интересах всей экосистемы ВИЗа.
+Secondly, delegates can change the parameters of the distribution of emissions by directions, which is much easier and does not require intervention in the code. Such a change can have significant consequences for the entire visonomics, since the size of awards, that is, the efficiency of using social capital, depends on the distribution of emissions. And an increase or decrease in contributions to the DAO Fund will change the attractiveness of work in the interests of the entire VIZ ecosystem.
 
 ## Распределение социального капитала в ВИЗе
 
