@@ -252,90 +252,90 @@ First, in theory, they can update the blockchain code to change the size of the 
 
 Secondly, delegates can change the parameters of the distribution of emissions by directions, which is much easier and does not require intervention in the code. Such a change can have significant consequences for the entire visonomics, since the size of awards, that is, the efficiency of using social capital, depends on the distribution of emissions. And an increase or decrease in contributions to the DAO Fund will change the attractiveness of work in the interests of the entire VIZ ecosystem.
 
-## Распределение социального капитала в ВИЗе
+## Distribution of social capital in VIZ0
 
-### Первая фаза: тестирование (2018-2020 гг.)
+### First phase: testing (2018-2020)
 
-Первые 50 млн токенов viz были распределены анонимом, запустившим работу блокчейна VIZ в конце сентября 2018 года. Распределение основывалось на данных о пожертвованиях, сделанных несколькими людьми на создание кода блокчейна, а также на информации об объёме работ автора кода. Первичное распределение токенов по такой схеме - добровольный выбор неизвестного лица, у него не было обязанности следовать каким-либо предварительным установкам или правилам. Всего при первичном распределении токены получил 21 аккаунт.
+The first 50 million viz tokens were distributed by an anonymous author who launched the VIZ blockchain at the end of September 2018. The distribution was based on data on donations made by several people to create the blockchain code, as well as information on the amount of work of the author of the code. The primary distribution of tokens according to this scheme is a voluntary choice of an unknown person, he did not have an obligation to follow any pre-set or rules. In total, 21 accounts received tokens during the initial distribution.
 
-![Первоначальное распределение viz](https://github.com/vizplus/viz-invest/blob/main/firstviz.png)
+![Initial distribution of viz](https://github.com/vizplus/viz-invest/blob/main/firstviz.png)
 
-В течение следующих двух лет происходило уточнение миссии и концепции проекта, создание приложений, тестирование возможностей блокчейна. В это время не проводилась рекламная кампания, пользователи приходили сами, понимая, что получают сервис «как есть», фактически на условиях бета-тестирования.
+Over the next two years, the mission and concept of the project were clarified, applications were created, and blockchain capabilities were tested. At this time, there was no advertising campaign, users came themselves, realizing that they were receiving the service “as is,” in fact, on the basis of beta testing.
 
-За это время было эмитировано и распределено более 12 млн viz. Из них 2,4 млн viz получили делегаты, поддерживающие работу блокчейна, 4,3 млн viz прошли через Фонд ДАО и около 5 млн viz достались получателям наград (остальное - текущий остаток Фонда ДАО и текущий Фонд наград).
+During this time, more than 12 million viz were emitted and distributed. Of these, 2.4 million viz were received by delegates supporting the operation of the blockchain, 4.3 million viz went through the DAO Foundation and about 5 million viz went to the recipients of the awards (the rest is the current balance of the DAO Fund and the current Award Fund).
 
-Несколько миллионов viz поменяли владельцев в ходе торгов на бирже, обмена через различные обменники и прямых сделок.
+Several million viz changed owners in the course of trading on the exchange, exchanges through various exchangers and direct deals.
 
-В конце декабря 2019 года участники ВИЗа on1x (он же in) и ae заморозили в общей сложности 32 млн viz с постепенной разморозкой в течение 7 лет. Это было сделано, чтобы улучшить ситуацию с децентрализацией экосистемы и снять опасения, касающиеся возможности быстрой продажи большого количества токенов. В 2020 году было разморожено 1,2 млн viz. 
+At the end of December 2019, VIZ participants on1x (aka in) and ae froze a total of 32 million viz with gradual defrosting over 7 years. This was done in order to improve the situation with the decentralization of the ecosystem and to remove concerns about the possibility of quickly selling a large number of tokens. In 2020, 1.2 million viz were unfrozen. 
 
-На конец 2020 года on1x и ae контролировали в общей сложности около 13 млн viz из примерно 31 млн viz в экономике (42% по сравнению с 85% на старте). Среди других крупных владельцев социального капитала и ликвидных токенов на тот же момент: speculator - 2,9 млн viz; smailer - 1,8 млн viz; denis-skripnik - 1,4 млн viz; litrbooh - 1,4 млн viz; id и kelechek - более 1 млн viz (все данные - приблизительные и основаны на оценке VIZPLUS, так как аккаунты в ВИЗе анонимны).
+At the end of 2020, on1x and ae controlled a total of about 13 million viz out of about 31 million viz in the economy (42% versus 85% at the start). Among other large owners of social capital and liquid tokens at the same time: speculator - 2.9 million viz; smailer - 1.8 million viz; denis-skripnik - 1.4 million viz; litrbooh - 1.4 million viz; id and kelechek - more than 1 million viz (all data are approximate and based on VIZPLUS estimates, since VIZ accounts are anonymous).
 
-Всего к концу 2020 года токенами viz владели около 3800 аккаунтов, но подавляющее большинство из них - технические или созданные в ходе спам-атак. Тем не менее, в экосистеме насчитывалось около 250 аккаунтов со значимым социальным капиталом (от 1 тыс. viz).
+In total, by the end of 2020, about 3800 accounts owned viz tokens, but the vast majority of them are technical or created during spam attacks. Nevertheless, there were about 250 accounts in the ecosystem with significant social capital (from 1,000 viz).
 
-### Вторая фаза: начало роста (2021-2023 гг.)
+### Second phase: start of growth (2021-2023)
 
-Началом второй фазы существования ВИЗа можно считать полноценное открытие в январе 2021 г. сайта viz.plus с информационными и промо-материалами, а также необходимыми сервисами. 
+The beginning of the second phase of the VIZ's existence can be considered the full-fledged opening in January 2021 of the viz.plus website with information and promo materials, as well as the necessary services.
 
-Сайт должен стать «точкой входа» в ВИЗ для всех интересующихся: пользователей, разработчиков, предпринимателей, инвесторов. Именно на сайт будет привлекаться поток посетителей через рекламу и пиар, а для техподдержки пользователей и консультирования разработчиков, предпринимателей и инвесторов выбраны чаты в мессенджере Telegram.
+The site should become the "entry point" to the VIZ for everyone interested: users, developers, entrepreneurs, investors. It is to the site that the flow of visitors will be attracted through advertising and PR, and chats in the Telegram messenger are selected for technical support of users and consulting developers, entrepreneurs and investors.
 
-Согласно прогнозам Инициативы VIZPLUS, в 2021-2023 гг. получат развитие следующие направления:
+According to the forecasts of the VIZPLUS Initiative, the following areas will be developed in 2021-2023:
 
-- подключение небольших и средних сайтов и приложений к ВИЗу;
-- массированная экспансия ВИЗа в Telegram;
-- создание финансовой части экосистемы - сервисов покупки и продажи визов и аренды социального капитала;
-- появление новых активных инвесторов, участвующих в развитии ВИЗа;
-- появление первых «корпоративных» участников ВИЗа с относительно большим социальным капиталом для программ лояльности и награждения клиентов;
-- использование возможностей блокчейна VIZ, не связанных с социальным капиталом (распределённые социальные сервисы, магазины с приёмом ликвидных визов и пр.);
-- экспансия ВИЗа на англоязычные рынки.
+- connecting small and medium sites and applications to VIZ;
+- massive expansion of VIZ in Telegram;
+- creation of the financial part of the ecosystem - services for buying and selling vizes and renting social capital;
+- the emergence of new active investors participating in the development of VIZ;
+- the appearance of the first "corporate" VIZ participants with relatively large social capital for loyalty programs and rewarding clients;
+- using the capabilities of the VIZ blockchain that are not related to social capital (distributed social services, shops accepting liquid vizes, etc.);
+- expansion of VISA to English-speaking markets.
 
-К концу 2023 г. в обращении будет находиться около 60 млн viz, т.е. предложение токенов (supply) удвоится по сравнению с концом 2020 г. Однако, развитие экосистемы (появление бизнесов и новых инвесторов) и увеличение количества активных участников как минимум на три порядка не только абсорбирует этот рост, но и создаст существенный дефицит токенов, что приведёт к росту их цены, также исчисляемому порядками.
+By the end of 2023, about 60 million viz will be in circulation, i.e. the supply of tokens (supply) will double compared to the end of 2020. However, the development of the ecosystem (the emergence of businesses and new investors) and an increase in the number of active participants by at least three orders of magnitude will not only absorb this growth, but also create a significant shortage of tokens, which will lead to growth their prices, also calculated in orders.
 
-![Ожидаемое распределение viz на конец 2023 г.](https://github.com/vizplus/viz-invest/blob/main/2023.png)
+![Expected distribution of viz at the end of 2023](https://github.com/vizplus/viz-invest/blob/main/2023.png)
 
-### Третья фаза: формирование зрелой экосистемы (2024-2030 г.г.)
+### The third phase: the formation of a mature ecosystem (2024-2030)
 
-В третьей фазе развития ВИЗ должен стать привычным дополнением к практически любой онлайн- и офлайн социальной активности в развитых странах. Цифровой социальный капитал человека в конечном итоге станет одним из его обычных атрибутов - как аккаунт в том или ином социальном сервисе, номер телефона или список хобби.
+In the third phase of development, VIZ should become a familiar addition to almost any online and offline social activity in developed countries. A person's digital social capital will eventually become one of his usual attributes - like an account in a particular social service, a phone number, or a list of hobbies.
 
-Вероятно, через несколько лет основной объём наград будет распределяться крупными держателями социального капитала - компаниями, организациями или неформальными группами участников, которые таким способом будут удерживать лояльность пользователей, последователей или фанатов. Также нельзя исключить использование поощрений в виде ВИЗ-наград и в системе образования/воспитания в дополнение к оценкам - и это может стать огромным сегментом визономики. Тем не менее, и в обычных социальных отношениях людей награды за пользу или удовольствие станут признаком «хорошего тона». 
+Probably, in a few years, the bulk of the awards will be distributed by large holders of social capital - companies, organizations or informal groups of participants, which in this way will retain the loyalty of users, followers or fans. Also, the use of incentives in the form of VIZ awards and in the education/upbringing system in addition to grades cannot be ruled out - and this can become a huge segment of visonomics. Nevertheless, in ordinary social relationships of people, rewards for benefit or pleasure will become a sign of "good form". 
 
-Ожидается, что получат развитие сервисы аренды социального капитала - для корпоративных и частных пользователей. Такие сервисы будут делегировать социальный капитал на время пользователям, не имеющим возможности или желания купить или получить его в собственность. Корпоративные клиенты могут использовать арендуемый капитал в разовых маркетинговых кампаниях, а частные - для усиления своего влияния в сообществах или повышения самооценки.
+It is expected that services for renting social capital will be developed for corporate and private users. Such services will delegate social capital for a time to users who do not have the ability or desire to buy or acquire it. Corporate clients can use the leased capital in one-off marketing campaigns, while private clients can use it to increase their influence in the communities or increase their self-esteem.
 
-![Ожидаемое распределение viz на конец 2030 г.](https://github.com/vizplus/viz-invest/blob/main/2030.png)
+![Expected distribution of viz at the end of 2030](https://github.com/vizplus/viz-invest/blob/main/2030.png)
 
-С ростом активности на несколько порядков возникнет необходимость модернизировать блокчейн VIZ, чтобы он мог выдержать соответствующую нагрузку и был более удобен для пользователей.
+With an increase in activity by several orders of magnitude, it will be necessary to modernize the VIZ blockchain so that it can withstand the corresponding load and be more user-friendly.
 
-В плане удобства, например, в какой-то момент делегатам придётся рассмотреть вопрос сплита (дробления) токенов. На конец 2029 г. предложение визов достигнет 145 млн. Если предположить, что примерно треть из них будет принадлежать индивидуальным пользователям, чьё количество достигнет 100 млн человек (1/10 аудитории Facebook), то на одного пользователя придётся капитал примерно 0,5 viz, а размер обычной награды (с 1% энергии) окажется меньше 0,0001 viz. Очевидно, имеет смысл периодически проводить сплит токенов в 10 или 100 раз.
+In terms of convenience, for example, at some point delegates will have to consider splitting tokens. By the end of 2029, the offer of visas will reach 145 million. If we assume that about a third of them will belong to individual users, whose number reaches 100 million people (1/10 of the Facebook audience), then one user will have a capital of about 0.5 viz. and the size of the usual reward (with 1% energy) will be less than 0.0001 viz. Obviously, it makes sense to periodically split tokens 10 or 100 times.
 
-## Модель определения ориентировочной ценности viz
+## Model for assessing the value of viz
 
-В отличие от криптовалют и большинства других криптоактивов, токен viz имеет определённую фундаментально обоснованную ценность, которая может транслироваться в ориентировочную цену. Эта цена не является чьим-либо обязательством, строится на нескольких предположениях, а рынок может в моменте оценивать viz совершенно иначе. Тем не менее, она представляет определённый интерес.
+Unlike cryptocurrencies and most other crypto assets, the viz token has a certain fundamentally justified value, which can be translated into an estimated price. This price is not someone's obligation, it is based on several assumptions, and the market may at the moment evaluate viz in a completely different way. Nevertheless, it is of some interest.
 
-Одно из базовых понятий в ВИЗе - награда, то есть разовое увеличение цифрового социального капитала одного участника другим участником. Размер награды измеряется в визах и формально не имеет финансовой ценности: увеличение социального капитала ценно само по себе, так как увеличивает влияние человека (точнее, аккаунта) на других участников ВИЗа. Тем не менее, пока ВИЗ не получил широкого распространения, люди будут по привычке хотя бы в какой-то степени ориентироваться на «стоимость» награды, выраженную в деньгах.
+One of the basic concepts in the VIZ is a award, that is, a one-time increase in the digital social capital of one participant by another. The size of the award is measured in vizes and formally has no financial value: an increase in social capital is valuable in itself, since it increases a person's influence (more precisely, an account) on other participants in the VIZ. Nevertheless, until the VIZ is widespread, people will, out of habit, at least to some extent be guided by the “value” of the award, expressed in money.
 
-Разумно предположить, что со временем в экосистеме ВИЗа сложится мнение относительно приемлемого размера награды «в деньгах». Вряд ли найдётся много желающих рутинно лайкать посты в микроблогах на доллар за раз. С другой стороны, лайкать на $0,0005 - тоже не очень интересно.
+It is reasonable to assume that over time, the VISA ecosystem will develop an opinion about the acceptable size of the “in-the-money” reward. There are hardly many people who want to routinely like posts in microblogs for a dollar at a time. On the other hand, liking $ 0.0005 is not very interesting either.
 
-Нам представляется, что обычный участник ВИЗа сможет без сожалений и без опасений прослыть жадным награждать примерно на $0,1-0,5 в день ($40-200 в год), выдавая по 10-20-50 «обычных» наград. Соответственно, общепринятый размер награды составит примерно 1-5 центов. Учитывая сложившуюся и ожидаемую наградность социального капитала в 20-25% годовых, денежная ценность среднего капитала активного участника должна составлять порядка $500 (в широком промежутке от $200 до $1000).
+It seems to us that an ordinary VIZ participant can, without regrets and without fear, be known as greedy to reward approximately $ 0.1-0.5 per day ($ 40-200 per year), giving out 10-20-50 "usual" awards. Accordingly, the generally accepted size of the award will be approximately 1-5 cents. Taking into account the current and expected reward of social capital at 20-25% per annum, the monetary value of the average capital of an active participant should be about $ 500 (in a wide range from $ 200 to $ 1000).
 
-Второй параметр, который необходимо подсчитать для этой модели - среднее количество токенов в капитале активного участника. Для этого из общего количества токенов в обращении следует вычесть ликвидные токены, доли крупных инвесторов, корпоратов и сервисов аренды, а также «мёртвый» капитал, фактически вышедший из оборота. Остаток делится на количество активных участников.
+The second parameter that needs to be calculated for this model is the average number of tokens in the capital of an active participant. To do this, from the total number of tokens in circulation, one should subtract liquid tokens, the shares of large investors, corporations and rental services, as well as the "dead" capital that actually went out of circulation. The remainder is divided by the number of active members.
 
-В итоге получается простое соотношение денежной оценки «обычного» социального капитала и его размера в визах, что даёт представление об ориентировочной цене токена.
+The result is a simple ratio of the monetary value of "ordinary" social capital and its size in vizes, which gives an idea of the estimated price of the token.
 
-> Пример  
-> Если приведённая выше модель распределения токенов в конце второй фазы развития ВИЗа окажется верной, то у активных пользователей в социальном капитале соберётся около 25-30% от 60 млн viz, то есть 15-18 млн viz. Соответственно, при 100 тыс. активных пользователей ВИЗа в среднем в капитале участника будет 150-180 viz. Это даёт ориентировочную цену виза в $3.
+> Example 
+> If the above model of token distribution at the end of the second phase of VIZ development turns out to be correct, then active users will have about 25-30% of 60 million viz in social capital, that is, 15-18 million viz. Accordingly, with 100 thousand active VIZ users, the average participant's capital will be 150-180 viz. This gives an estimated viz price of $ 3.
 
-Безусловно, такой подсчёт носит очень приблизительный характер и больше говорит о порядке величины, чем о конкретном значении. Т.е. при достижении данных параметров рационально к концу 2023 года ожидать цену виза в единицы долларов, а вот десятки долларов или единицы центов представляются маловероятными.
+Of course, such a calculation is very approximate and says more about the order of magnitude than about a specific value. That is, when these parameters are reached, it is rational to expect a viz price in units of dollars by the end of 2023, but tens of dollars or the first of cents seem unlikely.
 
-## Как инвестировать в ВИЗ
+## Why invest in a VIZ
 
-Оптимальный вариант инвестиций в ВИЗ - покупка токенов у разработчиков и предпринимателей, занимающихся развитием экосистемы. 
+The best option for investing in VIZ is buying tokens from developers and entrepreneurs involved in the development of the ecosystem.
 
-Обычно разработчики получают выплаты токенами из Фонда ДАО за полезную для сообщества работу и продают часть этих токенов инвесторам. Такой способ покупки вдвойне полезен: он не только позволяет оценить визы, но и приносит дополнительную ценность в экосистему. Кроме того, так можно купить сразу довольно большое количество визов по относительно низкой цене.
+Typically, developers receive token payments from the DAO Fund for work useful to the community and sell a portion of these tokens to investors. This way of buying is doubly useful: it not only allows you to value vizes, but also brings additional value to the ecosystem. In addition, this way you can buy a fairly large number of vizes at once at a relatively low price.
 
-> Инициатива VIZPLUS готова связать инвесторов с такими разработчиками.   
-> Наши контакты: [ae_viz_plus](https://t.me/ae_viz_plus) в Телеграме или почта vizplus@protonmail.com
+> The VIZPLUS initiative is ready to connect investors with such developers. 
+> Our contacts: [ae_viz_plus](https://t.me/ae_viz_plus) in Telegram or mail vizplus@protonmail.com
 
-Также в Телеграме есть группа [VIZ+Trade](https://t.me/vizplus_trade), в которой можно договориться о сделке с другими участниками ВИЗа.
+Also in Telegram there is a group [VIZ+Trade](https://t.me/vizplus_trade), where you can negotiate a deal with other VIZ participants.
 
-Биржевые торги визами проходят на децентрализованной бирже [Bitshares](https://wallet.bitshares.org/#/market/XCHNG.VIZ_RUDEX.USDT) в виде актива XCHNG.VIZ в основном в паре с RUDEX.USDT. Для покупки визов на бирже необходимо создать на ней аккаунт (не требуется подтверждение личности), завести через шлюз RUDEX необходимую валюту (предпочтительно USDT), купить XCHNG.VIZ и вывести их через шлюз XCHNG на свой аккаунт в ВИЗе. Этот вариант рекомендуется тем, кто хорошо ориентируется в торгах на бирже Bitshares.
+Exchange trades in vizes are held on the decentralized exchange [RUDEX](https://market.rudex.org/#/market/XCHNG.VIZ_XCHNG.USDT) as an asset XCHNG.VIZ mainly paired with XCHNG.USDT. To buy vizes on the exchange, you need to create an account on it (no identification is required), enter the required currency through the XCHNG gateway (preferably USDT), buy XCHNG.VIZ and withdraw them through the XCHNG gateway to your VIZ account. This option is recommended for those who are well versed in trading on the decentralized exchange.
 
-Купить визы за деньги или криптовалюту также можно в [магазине виз-чеков](https://viz.media/shop). Этот вариант подразумевают низкую ликвидность и высокую цену, но отличается простотой и отличной скоростью сделки.
+You can also buy vizes for cash or cryptocurrency at the [viz check store](https://viz.media/shop). This option implies low liquidity and high price, but is simple and fast.
