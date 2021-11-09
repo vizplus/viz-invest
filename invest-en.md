@@ -325,7 +325,7 @@ The result is a simple ratio of the monetary value of "ordinary" social capital 
 
 Of course, such a calculation is very approximate and says more about the order of magnitude than about a specific value. That is, when these parameters are reached, it is rational to expect a viz price in units of dollars by the end of 2023, but tens of dollars or the first of cents seem unlikely.
 
-## Why invest in a VIZ
+## How to invest in VIZ
 
 The best option for investing in VIZ is buying tokens from developers and entrepreneurs involved in the development of the ecosystem.
 
@@ -336,6 +336,8 @@ Typically, developers receive token payments from the DAO Fund for work useful t
 
 Also in Telegram there is a group [VIZ+Trade](https://t.me/vizplus_trade), where you can negotiate a deal with other VIZ participants.
 
-Exchange trades in vizes are held on the decentralized exchange [RUDEX](https://market.rudex.org/#/market/XCHNG.VIZ_XCHNG.USDT) as an asset XCHNG.VIZ mainly paired with XCHNG.USDT. To buy vizes on the exchange, you need to create an account on it (no identification is required), enter the required currency through the XCHNG gateway (preferably USDT), buy XCHNG.VIZ and withdraw them through the XCHNG gateway to your VIZ account. This option is recommended for those who are well versed in trading on the decentralized exchange.
+Exchange trades in viz are held on the decentralized exchange on Graphene blockchain: [RUDEX](https://market.rudex.org/#/market/XCHNG.VIZ_XCHNG.USDT) as an asset XCHNG.VIZ mainly paired with XCHNG.USDT. To buy vizes on the exchange, you need to create an account on it (no identification is required), enter the required currency through the XCHNG gateway (preferably USDT), buy XCHNG.VIZ and withdraw them through the XCHNG gateway to your VIZ account. This option is recommended for those who are well versed in trading on the decentralized exchange.
 
 You can also buy vizes for cash or cryptocurrency at the [viz check store](https://viz.media/shop). This option implies low liquidity and high price, but is simple and fast.
+
+Finally, large amounts of viz for cryptocurrency can be purchased from the [Menaskop shop](https://menaskop.xyz/).
