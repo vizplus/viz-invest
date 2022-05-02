@@ -230,118 +230,116 @@ VIZ has a unique function of **recurrent, or automatically repeating, payments**
 
 Finally, viz tokens are used as a **cryptocurrency** for instant payment for goods and services without commissions via simple transfer. This is not their main purpose, but if a user is ready to accept viz tokens as payment for something, and another user is ready to pay with them, then the VIZ blockchain allows them to do so.
 
-## Emission in VIZ
+## VIZ Supply
 
-### Base emission
+### Base supply
 
-The emission rates of viz tokens are set in the blockchain code and can only be changed by a consensus decision of delegates. Initially and until now, the annual emission is 10% of the total number of viz as of the last September 29th. During the year, tokens are emitted in equal portions in each block.
+The supply rates of viz tokens are set in the blockchain code and can only be changed by a consensus decision of the delegates. Initially and still, the annual supply is 10% of the total number of viz as of the latest data on September 29. During the year, the supply of tokens occurs in equal portions in each block.
 
-The initial number of tokens was 50 million, respectively, 5 million new tokens were emitted in the first year, 5.5 million in the second, etc.
+The starting number of tokens was 50 million, respectively, 5 million new tokens were issued in the first year, 5.5 million in the second year, etc.
 
-The emitted tokens in each block are automatically distributed in three directions: payment for the signing of the block by the delegate, awards and the DAO Fund. Distribution shares are determined by delegates, but, unlike the emission rate, changes in shares do not require consensus, they are calculated according to the median of values published by delegates.
+The tokens in each block are automatically distributed for three purposes - for paying for the signing of each block by the delegate, as rewards, and to the DAO Fund. The shares of the distribution are determined by the delegates. However, unlike the rate of supply, a change in the shares does not require consensus, since they are calculated by the median values published by the delegates.
 
 ### Frozen tokens
 
-At the end of December 2019, VIZ participants on1x and ae decided to freeze a significant part of their assets (28 million and 4 million viz, respectively), followed by a gradual unfreezing over seven years. Frozen tokens cannot be received ahead of schedule without a consensus decision of the delegates, which seems extremely unlikely.
+At the end of December of 2019, the participants of VIZ on1x and ae decided to freeze a significant part of their assets totaling 28 million and 4 million viz, respectively, with subsequent gradual unfreezing over the next seven years. Frozen tokens cannot be obtained ahead of time without a consensus decision of the delegates, which seems extremely unlikely.
 
-Accordingly, since January 2020, there are much fewer tokens in real turnover in vizonomics than were originally emitted. At the same time, the rates of the main emission remained the same, and the gradual unfreezing of tokens can be considered an "additional" emission. As a result, if we talk about the real rates of token circulation, they are higher than the formal ones: from 28% in 2020 to 18% in 2026. Starting in 2027, the rates of formal and real emission will equalize, as all previously frozen tokens will be unfrozen.
+Accordingly, starting from January of 2020, there are much fewer tokens in real circulation in the vizonomics environment than were originally issued. At the same time, the rates of the main supply remained the same, and the gradual unfreezing of tokens can be considered an ‘additional’ supply. As a result, if the real rates of tokens entering circulation are to be considered, they are higher than the formal ones - from 28% in 2020 to 18% in 2026. Starting from 2027, the rates of formal and real supply will equalize, as all previously frozen tokens will be unfrozen.
 
 ![Number of viz in circulation by years](https://github.com/vizplus/viz-invest/blob/main/vizsupply.png)
 
-### Influence of delegates on emissions
+### The influence of delegates on supply
 
-Delegates can influence the emission of viz tokens in two ways.
+Delegates can influence the supply of viz tokens in two ways.
 
-First, in theory, they can update the blockchain code to change the size of the emission itself. This action requires a consensus decision, that is, even with a small "opposition" it will be blocked.
+First, in theory, they could update the blockchain code to change the size of the supply itself. This action requires a consensus decision. Even the slightest of opposition will result in it being blocked.
 
-Secondly, delegates can change the parameters of the distribution of emissions by directions, which is much easier and does not require intervention in the code. Such a change can have significant consequences for the entire vizonomics, since the size of awards, that is, the efficiency of using social capital, depends on the distribution of emissions. And an increase or decrease in contributions to the DAO Fund will change the attractiveness of work in the interests of the entire VIZ ecosystem.
+Secondly, delegates can change the parameters of supply distribution by direction, which is much easier and does not require intervention in the code. Such a change can have significant consequences for the entire vizonomics model, since the size of the rewards and the efficiency of using social capital depends on the distribution of supply. An increase or decrease in contributions to the DAO Fund will change the attractiveness of working in the interests of the entire VIZ ecosystem.
 
 ## Distribution of social capital in VIZ
 
 ### First phase: testing (2018-2020)
 
-The first 50 million viz tokens were distributed by an anonymous author who launched the VIZ blockchain at the end of September 2018. The distribution was based on data on donations made by several people to create the blockchain code, as well as information on the amount of work of the author of the code. The primary distribution of tokens according to this scheme is a voluntary choice of an unknown person, he did not have an obligation to follow any pre-set or rules. In total, 21 accounts received tokens during the initial distribution.
+The first 50 million viz tokens were distributed by an anonymous individual who launched the VIZ blockchain at the end of September of 2018. The distribution was based on data on donations made by several people to create the blockchain code, as well as information on the amount of work done by the author of the code. The initial distribution of tokens according to this scheme is the voluntary choice of an unknown individual. That individual had no obligation to follow any preliminary settings or rules. In total, 21 accounts received tokens during the initial distribution.
 
 ![Initial distribution of viz](https://github.com/vizplus/viz-invest/blob/main/firstviz.png)
 
-Over the next two years, the mission and concept of the project were clarified, applications were created, and blockchain capabilities were tested. At this time, there was no advertising campaign, users came themselves, realizing that they were receiving the service “as is,” in fact, on the basis of beta testing.
+Over the next two years, the mission and concept of the project were refined, applications were created, and blockchain capabilities were tested. At that time, there was no advertising campaign, users joined on their own, realizing that they were getting the service ‘as is’, in fact, under the terms of beta testing.
 
-During this time, more than 12 million viz were emitted and distributed. Of these, 2.4 million viz were received by delegates supporting the operation of the blockchain, 4.3 million viz went through the DAO Foundation and about 5 million viz went to the recipients of the awards (the rest is the current balance of the DAO Fund and the current Award Fund).
+During this time, more than 12 million viz were issued and distributed. Of these, 2.4 million viz were distributed to the delegates supporting the operation of the blockchain, 4.3 million viz were sent through the DAO Fund, and about 5 million viz were distributed among the recipients of the rewards. The remaining tokens constitute the current balance of the DAO Fund and the current Rewards Fund.
 
-Several million viz changed owners in the course of trading on the exchange, exchanges through various exchangers and direct deals.
+Several million viz changed owners during trading on the exchange, circulation through various exchangers, and direct transactions.
 
-At the end of December 2019, VIZ participants on1x (aka in) and ae froze a total of 32 million viz with gradual defrosting over 7 years. This was done in order to improve the situation with the decentralization of the ecosystem and to remove concerns about the possibility of quickly selling a large number of tokens. In 2020, 1.2 million viz were unfrozen. 
+At the end of December of 2019, VIZ members on1x (aka in) and ae froze a total of 32 million viz with gradual unfreezing over the next 7 years. This was done to improve the decentralization of the ecosystem as a whole and to alleviate concerns about the possibility of a quick sale of a large number of tokens. In 2020, 1.2 million viz were unfrozen.
 
-At the end of 2020, on1x and ae controlled a total of about 13 million viz out of about 31 million viz in the economy (42% versus 85% at the start). Among other large owners of social capital and liquid tokens at the same time: speculator — 2.9 million viz; smailer — 1.8 million viz; denis-skripnik — 1.4 million viz; litrbooh — 1.4 million viz; id and kelechek — more than 1 million viz (all data are approximate and based on VIZPLUS estimates, since VIZ accounts are anonymous).
+At the end of 2020, on1x and ae controlled a total of about 13 million viz out of about 31 million viz in the economy (42% compared to 85% at launch). Among other large owners of social capital and liquid tokens at the same time were speculator with 2.9 million viz, smailer with 1.8 million viz, denis-skripnik with 1.4 million viz, litrbooh with 1.4 million viz, id and kelechek with more than 1 million viz. The data is approximate and based on the VIZPLUS estimate, since VIZ accounts are anonymous.
 
-In total, by the end of 2020, about 3800 accounts owned viz tokens, but the vast majority of them are technical or created during spam attacks. Nevertheless, there were about 250 accounts in the ecosystem with significant social capital (from 1,000 viz).
+In total, by the end of 2020, about 3,800 accounts owned viz tokens, but the vast majority of them are technical or created during spam attacks. Nevertheless, there were about 250 accounts with significant social capital in the ecosystem, wielding more than 1,000 viz.
 
 ### Second phase: start of growth (2021-2023)
 
-The beginning of the second phase of the VIZ's existence can be considered the full-fledged opening in January 2021 of the viz.plus website with information and promo materials, as well as the necessary services.
+The start of the second phase of the existence of VIZ can be considered the full-fledged launch of the viz.plus website in January of 2021 with information and promotional materials, as well as the necessary supporting services.
 
-The site should become the "entry point" to the VIZ for everyone interested: users, developers, entrepreneurs, investors. It is to the site that the flow of visitors will be attracted through advertising and PR, and chats in the Telegram messenger are selected for technical support of users and consulting developers, entrepreneurs and investors.
+The site should become an onramp to VIZ for all those interested, including users, developers, entrepreneurs, investors, etc. It is the website that will attract the flow of visitors through advertising and PR. Special chats in the Telegram messenger have been selected for technical support for users and advising developers, entrepreneurs. and investors.
 
-According to the forecasts of the VIZPLUS Initiative, the following areas will be developed in 2021-2023:
+According to the forecasts of the VIZPLUS Initiative, in 2021-2023, the following directions will be developed:
 
-- connecting small and medium sites and applications to VIZ;
-- massive expansion of VIZ in Telegram;
-- creation of the financial part of the ecosystem - services for buying and selling vizes and renting social capital;
-- the emergence of new active investors participating in the development of VIZ;
-- the appearance of the first "corporate" VIZ participants with relatively large social capital for loyalty programs and rewarding clients;
-- using the capabilities of the VIZ blockchain that are not related to social capital (distributed social services, shops accepting liquid vizes, etc.);
-- expansion of VIZ to English-speaking markets.
+- Connection of small and medium-sized sites and applications to VIZ;
+- Massive expansion of VIZ in Telegram;
+- Creation of the financial part of the ecosystem, including services for buying and selling viz tokens and renting social capital;
+- The emergence of new active investors participating in the development of VIZ;
+- The emergence of the first ‘corporate’ participants of VIZ with relatively large social capital for loyalty programs and customer rewards;
+- The expansion and application of the possibilities of the VIZ blockchain that are not related to social capital, such as the distributed social services, stores accepting liquid viz tokens as payment, etc.;
+- VIZ expansion into English-speaking markets.
 
-By the end of 2023, about 60 million viz will be in circulation, i.e. the supply of tokens (supply) will double compared to the end of 2020. However, the development of the ecosystem (the emergence of businesses and new investors) and an increase in the number of active participants by at least three orders of magnitude will not only absorb this growth, but also create a significant shortage of tokens, which will lead to growth their prices, also calculated in orders.
+By the end of 2023, about 60 million viz will be in circulation. The supply of tokens will double compared to the end of 2020. However, the development of the ecosystem, entailing the emergence of businesses and new investors, and an increase in the number of active participants by at least threefold will not only absorb this growth, but will also create a significant shortage of tokens, consequently leading to an increase in their price, also multifold in nature.
 
 ![Expected distribution of viz at the end of 2023](https://github.com/vizplus/viz-invest/blob/main/2023.png)
 
-### The third phase: the formation of a mature ecosystem (2024-2030)
+### Third phase: formation of a mature ecosystem (2024-2030)
 
-In the third phase of development, VIZ should become a familiar addition to almost any online and offline social activity in developed countries. A person's digital social capital will eventually become one of his usual attributes — like an account in a particular social service, a phone number, or a list of hobbies.
+In the third phase of development, VIZ should become a familiar addition to almost any online and offline social activity in developed countries. A user’s digital social capital will eventually become one of their core attributes like an account in a particular social service, a phone number or a list of hobbies.
 
-Probably, in a few years, the bulk of the awards will be distributed by large holders of social capital - companies, organizations or informal groups of participants, which in this way will retain the loyalty of users, followers or fans. Also, the use of incentives in the form of VIZ awards and in the education/upbringing system in addition to grades cannot be ruled out — and this can become a huge segment of vizonomics. Nevertheless, in ordinary social relationships of people, rewards for benefit or pleasure will become a sign of "good form". 
+It is likely that in a few years, the bulk of the rewards will be distributed by large holders of social capital like companies, organizations or informal groups of participants who will retain the loyalty of users, followers or fans in this manner. The use of incentives in the form of VIZ rewards in the education / upbringing system in addition to grades cannot be ruled out either, as it can become a huge segment of vizonomics. Nevertheless, in ordinary social relations among users, rewards for favor or pleasure will become a sign of ‘goodwill.’
 
-It is expected that services for renting social capital will be developed for corporate and private users. Such services will delegate social capital for a time to users who do not have the ability or desire to buy or acquire it. Corporate clients can use the leased capital in one-off marketing campaigns, while private clients can use it to increase their influence in the communities or increase their self-esteem.
+Social capital rental services will also likely be developed for corporate and private users. Such services will temporarily delegate social capital to users who do not have the ability or desire to buy or own it. Corporate clients can use the leased capital in one-off marketing campaigns, while private clients can use it to increase their influence in communities or boost self-esteem.
 
 ![Expected distribution of viz at the end of 2030](https://github.com/vizplus/viz-invest/blob/main/2030.png)
 
-With an increase in activity by several orders of magnitude, it will be necessary to modernize the VIZ blockchain so that it can withstand the corresponding load and be more user-friendly.
+As activity volumes multiply, there will be a need to modernize the VIZ blockchain so that it can withstand the corresponding load and be more convenient for users.
 
-In terms of convenience, for example, at some point delegates will have to consider splitting tokens. By the end of 2029, the offer of vizes will reach 145 million. If we assume that about a third of them will belong to individual users, whose number reaches 100 million people (1/10 of the Facebook audience), then one user will have a capital of about 0.5 viz. and the size of the usual reward (with 1% energy) will be less than 0.0001 viz. Obviously, it makes sense to periodically split tokens 10 or 100 times.
+In terms of convenience, for example, at some point, delegates will have to consider splitting tokens. By the end of 2029, the supply of viz tokens will reach 145 million. Assuming that about a third of them will be owned by individual users, whose number will reach 100 million people (1/10 of Facebook’s audience), then there will be a capital of approximately 0.5 viz per user, and the normal reward (with 1% energy) will be less than 0.0001 viz. Obviously, it makes sense to periodically split tokens by ratios of 10 or 100.
 
-## Model for assessing the value of viz
+## Value Model
 
-Unlike cryptocurrencies and most other crypto assets, the viz token has a certain fundamentally justified value, which can be translated into an estimated price. This price is not someone's obligation, it is based on several assumptions, and the market may at the moment evaluate viz in a completely different way. Nevertheless, it is of some interest.
+Unlike cryptocurrencies and most other crypto assets, the viz token has a certain fundamentally justified value that can be translated into an estimated price. This price is not anyone’s obligation, but is based on several assumptions, and the market may value viz in a completely different way at the moment. However, it is of some interest.
 
-One of the basic concepts in the VIZ is a award, that is, a one-time increase in the digital social capital of one participant by another. The size of the award is measured in vizes and formally has no financial value: an increase in social capital is valuable in itself, since it increases a person's influence (more precisely, an account) on other participants in the VIZ. Nevertheless, until the VIZ is widespread, people will, out of habit, at least to some extent be guided by the “value” of the award, expressed in money.
+One of the basic concepts in VIZ is the reward, that is, an increase in the digital social capital of one participant by another participant. The size of the reward is measured in viz tokens and formally has no financial value: the increase in social capital is valuable in itself, as it increases the influence of a person (more precisely, an account) on other participants in the VIZ. However, until VIZ is widely adopted, people will habitually focus on the ‘value’ of the reward expressed in money, at least to some extent.
 
-It is reasonable to assume that over time, the VIZ ecosystem will develop an opinion about the acceptable size of the “in-the-money” reward. There are hardly many people who want to routinely like posts in microblogs for a dollar at a time. On the other hand, liking $ 0.0005 is not very interesting either.
+It is reasonable to assume that, over time, the VIZ ecosystem will form an opinion on the acceptable amount of the ‘in cash’ reward. It is unlikely that there will be many who want to routinely like posts in microblogs for a dollar at a time. On the other hand, liking for $0.0005 is also not a very attractive option.
 
-It seems to us that an ordinary VIZ participant can, without regrets and without fear, be known as greedy to reward approximately $ 0.1-0.5 per day ($ 40-200 per year), giving out 10-20-50 "usual" awards. Accordingly, the generally accepted size of the award will be approximately 1-5 cents. Taking into account the current and expected reward of social capital at 20-25% per annum, the monetary value of the average capital of an active participant should be about $ 500 (in a wide range from $ 200 to $ 1000).
+It seems to us that an ordinary VIZ participant will be able to accept to issue modest rewards of about $0.1-0.5 per day ($ 40-200 per year) without regrets and without fear, issuing 10-20-50 ‘regular’ rewards. Accordingly, the generally accepted amount of the reward will be approximately 1-5 cents. Taking into account the current and expected social capital reward of 20-25% per annum, the monetary value of the average capital of an active participant should be about $500, in a wide range from $200 to $1000.
 
-The second parameter that needs to be calculated for this model is the average number of tokens in the capital of an active participant. To do this, from the total number of tokens in circulation, one should subtract liquid tokens, the shares of large investors, corporations and rental services, as well as the "dead" capital that actually went out of circulation. The remainder is divided by the number of active members.
+The second parameter that needs to be calculated for this model is the average number of tokens in the capital of an active participant. To do this, the total number of tokens in circulation should be subtracted from the liquid tokens, the shares of large investors, corporations and rental services, as well as ‘deadweight’ capital that has actually gone out of circulation. The remainder is divided by the number of active members of the network.
 
-The result is a simple ratio of the monetary value of "ordinary" social capital and its size in vizes, which gives an idea of the estimated price of the token.
+The result is a simple ratio of the monetary value of ‘ordinary’ social capital and its size in viz tokens, which gives an idea of the estimated price of the token.
 
-> Example 
-> If the above model of token distribution at the end of the second phase of VIZ development turns out to be correct, then active users will have about 25-30% of 60 million viz in social capital, that is, 15-18 million viz. Accordingly, with 100 thousand active VIZ users, the average participant's capital will be 150-180 viz. This gives an estimated viz price of $ 3.
+> Example
+> If the above model of distribution of tokens at the end of the second phase of the development of VIZ turns out to be correct, then active users will collect about 25-30% of 60 million viz - 15-18 million viz in social capital. Accordingly, with 100 thousand active VIZ users, the capital of any given participant will be 150-180 viz on average. This results in an estimated viz token price of $3.
 
-Of course, such a calculation is very approximate and says more about the order of magnitude than about a specific value. That is, when these parameters are reached, it is rational to expect a viz price in units of dollars by the end of 2023, but tens of dollars or the first of cents seem unlikely.
+Of course, such a calculation is very approximate and speaks more of scaling than about any specific value. When these parameters are reached, it is rational to expect the price of the viz token to be valued in dollars by the end of 2023, but tens of dollars or cents seem unlikely.
 
 ## How to invest in VIZ
 
-The best option for investing in VIZ is buying tokens from developers and entrepreneurs involved in the development of the ecosystem.
+The best option for investing in VIZ is to buy tokens from developers and entrepreneurs involved in the development of the ecosystem.
 
-Typically, developers receive token payments from the DAO Fund for work useful to the community and sell a portion of these tokens to investors. This way of buying is doubly useful: it not only allows you to value vizes, but also brings additional value to the ecosystem. In addition, this way you can buy a fairly large number of vizes at once at a relatively low price.
+Typically, developers receive payments in tokens from the DAO Fund for work that is useful to the community and sell some of these tokens to investors. This way of buying is doubly beneficial, since it not only allows users to evaluate viz tokens, but also generates additional value to the ecosystem. In addition, users can buy a fairly large number of viz tokens in bulk at a relatively low price.
 
-> The VIZPLUS initiative is ready to connect investors with such developers. 
-> Our contacts: [ae_viz_plus](https://t.me/ae_viz_plus) in Telegram or mail vizplus@protonmail.com
+> The VIZPLUS initiative is ready to connect investors with such developers.
+> Our contacts: [adm_viz_plus](https://t.me/adm_viz_plus) in Telegram or mail vizplus@protonmail.com
 
-Also in Telegram there is a group [VIZ+Trade](https://t.me/vizplus_trade), where you can negotiate a deal with other VIZ participants.
+There is also a Telegram group [VIZ+Trade](https://t.me/vizplus_trade), where it is possible to negotiate a deal with other participants of VIZ.
 
-Exchange trades in viz are held on the decentralized exchange on Graphene blockchain: [RUDEX](https://market.rudex.org/#/market/XCHNG.VIZ_XCHNG.USDT) as an asset XCHNG.VIZ mainly paired with XCHNG.USDT. To buy vizes on the exchange, you need to create an account on it (no identification is required), enter the required currency through the XCHNG gateway (preferably USDT), buy XCHNG.VIZ and withdraw them through the XCHNG gateway to your VIZ account. This option is recommended for those who are well versed in trading on the decentralized exchange.
+Exchange trading in viz tokens takes place on the decentralized [RUDEX](https://market.rudex.org/#/market/XCHNG.VIZ_XCHNG.USDT) exchange under the XCHNG.VIZ asset paired with XCHNG.USDT. To purchase viz tokens on the exchange, users need to create an account on it. No identity verification is required. Then, users have to deposit USDT TRC20 through the XCHNG gateway, buy XCHNG.VIZ and withdraw them through the XCHNG gateway to their VIZ accounts. This option is recommended for those who are well versed in trading on the RuDEX exchange.
 
-You can also buy vizes for cash or cryptocurrency at the [viz check store](https://viz.media/shop). This option implies low liquidity and high price, but is simple and fast.
-
-Finally, large amounts of viz for cryptocurrency can be purchased from the [Menaskop shop](https://menaskop.xyz/).
+Finally, large volumes of viz tokens can be purchased for cryptocurrencies at the [Menaskop](https://menaskop.xyz/) store.
