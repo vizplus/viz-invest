@@ -1,111 +1,111 @@
 # Investments in VIZ
 
-*The following is the position of the VIZPLUS Initiative, other VIZ participants may have different views on VIZ (or the same). None of the statements on this page constitute investment advice. Only you make decisions related to your assets.*
+*The document presented herein outlines the position of the VIZPLUS Initiative. Other participants of VIZ may have different or similar views on VIZ. None of the statements contained on this page constitute investment advice. Only you bear full responsibility for the decisions you make regarding your assets.*
 
-**Important warning**!
+**Important notice**!
 
-You do not need viz tokens if you do not understand what and for whom they are intended, what ideas are behind them, and what can be done with them. If you treat VIZ as “another crypto that will pamp against the background of general growth”, you will surely be disappointed. Don't invest in VIZ, buy some shitcoin and wait to the Moon. Please pass by. Thanks.
+You do not need viz tokens if you do not understand what and who they are for, the concept backing them, and what you can do with them. If you treat VIZ as just ‘another crypto that is being pumped against the backdrop of general market growth’, you are sure to be disappointed. Do not invest in VIZ if you think so, buy some shitcoin instead and wait for it to fly off to the moon. If you belong to the adherents of such views, please, move along. Thank you.
 
 ### Content
 
-[Why invest in a VIZ](#why-invest-in-a-viz)
+[Why you should invest in VIZ](#why-invest-in-a-viz)
 
-- The third activity is social activity
-- Vizonomics — economics of social activity
-- Blockchain VIZ — a decentralized network of vizonomics
-- Social capital is a non-financial instrument of influence
-- Social interaction protocols — a common language for applications
-- Decentralized management — protection against bad decisions
+- The third type of activity is social activity
+- Vizonomics as the economics behind social activity
+- The VIZ Blockchain as a decentralized vizonomics network
+- Social capital as a non-financial instrument of influence
+- Social interaction protocols as a common language used by applications
+- Decentralized governance as an instrument ensuring protection from poor decision-making
+    
+[The viz token](#token-viz)
 
-[Token viz](#token-viz)
-
-- Not money
-- Not securities
-- Not "tickets" of the financial pyramid
-- What is viz token?
+- It is not money
+- It is not a security
+- It is not a check of a financial pyramid
+- What is the viz token
 - Tokens and money
-- The turnover of liquid viz
+- Turnover of liquid viz
 
-[Emission in VIZ](#emission-in-viz)
+[VIZ Supply](#emission-in-viz)
 
-- Base emission
-- Frozen tokens
-- Influence of delegates on emissions
+- Base supply
+- Frozen Tokens
+- The influence of delegates on supply
 
 [Distribution of social capital in VIZ](#distribution-of-social-capital-in-viz)
 
 - First phase: testing (2018-2020)
 - Second phase: start of growth (2021-2023)
-- The third phase: the formation of a mature ecosystem (2024-2030)
+- Third phase: formation of a mature ecosystem (2024-2030)
 
-[Model for assessing the value of viz](#model-for-assessing-the-value-of-viz)
+[Value Model](#model-for-assessing-the-value-of-viz)
 
 [How to invest in VIZ](#how-to-invest-in-viz)
 
-## Why invest in a VIZ
+## Why you should invest in VIZ
 
 ### The third activity is social activity
 
-In the modern world, a person works to rest and rests to work. He works, receives a salary, spends it (as well as time and knowledge) on food, housing, clothing, a car, a useful seminar and a trip to Turkey to be healthy enough, strong and knowledgeable, and work better, getting more money for a little more delicious food, nice clothes, an expensive car, a university for children and a trip to the Maldives.
+In the modern world, people work to have some rest, and have rest to keep on working. People work, get paid a salary, spend it along with time and knowledge on food, housing, clothing, vehicles, some useful seminars and a trip to Turkey to keep healthy, strong and knowledgeable enough to keep on working better, getting more money for a little more tasty food, fancy clothes, expensive vehicles, education for their children, and a ticket to the Maldives.
 
-Simply, a person receives resources from other people to spend them on himself, to receive more resources from others, etc. — up to death or retirement.
+Simply put, people receive resources from other people to spend them on themselves and receive more resources from others in return and so on up until death or retirement.
 
-Both of these areas of life - work and recreation — are served by the traditional economy, the key element of which is the voluntary equivalent exchange of the results of labor through the mediation of money.
+Both of these aspects of life - work and leisure - are served by the traditional economy. The key element of said economy is the voluntary equivalent exchange of the results of labor through monetary value.
 
-In recent years the third part of human life has been actively developing - social activity in large and diverse groups. These are publications on on social networking services, participation in “neighborhood”, civic and political activities, online games, activity in communities with brands, amateur sports, interactive entertainment with voting for other participants, and much more.
+In recent years, the third part of human life has seen active development in the form of social activities conducted across large and diverse groups of people. These actions include publications in social services, participation in ‘neighborly’, civil and political activities, engagement in online games and n activities in communities supported by brands, involvement in amateur sports and interactive entertainment including voting for other participants, and much more.
 
-This activity requires a person to use the resources available to him (money, time, knowledge) — as well as rest. And at the same time, it benefits other people or makes them happy — as well as work. But the exchange of the results of such activities is not associated with money and does not seek to be equivalent, as in the traditional economy. 
+This range of activities requires people to use the resources available to them, such as money, time, and knowledge, just as rest does. At the same time, these activities bring benefits or pleasure to other people, just as work. But the exchange of the results of such activities is not related to money and does not seek to be equivalent to it, as is the case in the traditional economy. 
 
-> Example  
-> Someone posts funny cats on Instagram not because they are paying for it or because they are recuperating for the next working day (otherwise they would have “posted” them to their disk), but because the Instagram user gives pleasure (or even benefit) to other people and receives a positive reaction from them — likes and thankfulness.
+> Example
+> Someone posts some funny cats on Instagram not because they get paid for it or they recuperate in this way to get ready for the next working day. Otherwise, they would be storing these pictures on their hard drives. Instead, they do it, because this user of Instagram gives pleasure, or even benefit, to other people and receives a positive reaction in return in the form of likes and thankful comments.
 
-In turn, other people post memes about politicians on Twitter, bringing benefit and pleasure to the lover of cats and politicians, for which they are thankfulness.
+In turn, other people post memes about politicians on Twitter, bringing benefit and pleasure to the admirers of cats and politicians, receiving gratitude in return.
 
-There is no equivalent exchange here: he doesn't have to post three cats to look at one meme with Trump. There is no exchange on Instagram or Twitter that sets the exchange rate of likes received for cats for the right to watch memes with Trump.
+There is no equivalent exchange involved in this case. The user does not have to post three cats to look at one Trump meme. Neither Instagram nor Twitter has an exchange mechanism that sets the exchange rate for likes received for cats for the right to ogle at Trump memes.
 
-In addition, the  received likes, unlike the money earned by hard work in the office, cannot be put off for the future in order to exchange for useful advice from a specialist on a forum on a financial website.
+Also, unlike money earned in the office, it is impossible to save up the likes one gets for the future in order to exchange them for some useful advice from a specialist on a forum on a financial website.
 
-It turns out that in the third — social — activity, the traditional economy does not work: the exchange of benefits is not equivalent, it is impossible to save the received gratitude for the future, as well as to transfer it from one resource to another. As long as such activities remained a small part of the "relaxation", such a state of affairs could be tolerated. Now, when social activity takes up a significant part of the lives of hundreds of millions of people, it is time to take action.
+It turns out that the third type of social activity does not work in a traditional economy. The exchange of benefits is not equivalent, it is impossible to save up the gratitude received from other participants for the future, as well as convert it from one resource to another. As long as such activities were attributed to a small part of ‘leisure’, this state of affairs could be tolerated. Now, however, when social activity has become an inextricable part of the lives of hundreds of millions of people, it is time to take action.
 
-### Vizonomics — economics of social activity
+### Vizonomics as the economics behind social activity
 
-VIZ is able to serve social activity: it provides a universal tool for expressing and receiving non-financial thankfulness, preserves the received thankfulness in the form of a person's social capital and makes the use of accumulated social capital simple, intuitive and effective — both online and offline ...
+VIZ is able to serve social activity, as it provides a universal tool for expressing and receiving non-financial gratitude, saves the received gratitude in the form of social capital and makes the use of accumulated social capital simple, intuitive and effective both online and offline.
 
-VIZ is not a part of the economy, it is a whole economy — the economy of something that cannot be estimated with money, the economy of the whole world of social relations and interactions. Let's mention some of the elements of this world.
+VIZ is not part of the traditional economy, but an entire economy on its own – an economy of factors cannot be valued in monetary terms, an economy comprising the whole world of social connections and interactions. Let us consider some elements of this world.
 
-**Social networking services**. Social networks, messengers with public groups and channels, blog services, video hosting sites with user ratings, forums. Facebook, Twitter, YouTube, Telegram, VK, Medium.
+**Social Services**. Social networks, messengers with public groups and channels, blog services, video hosting websites with user ratings, forums. Examples include Facebook, Twitter, YouTube, Telegram, VK, Medium.
 
-**Superappas**. A large company creates or combines many services that cover completely different customer needs, around one user login. In superapps, you can often rate or like services and work performers, as well as other users. WeChat, Yandex, Sberbank.
+**Superapps**. A large company creates or merges several services that cover completely different customer needs revolving around a single user account. In superapps, users can often rate or like services and service executors, as well as other users. Examples include WeChat, Yandex, Sber.
 
-**TV**. Television offers more and more interactive programs in which viewers can at least choose the best participant in a show or competition in their opinion, as a maximum - take part in the development of the plot. "Dancing with the Stars" (audience ratings), Formula 1 (choosing the best driver in the race), Eurovision Song Contest.
+**TV**. Television offers a growing number of interactive programs in which viewers can at least choose the best participant in the show or competition, in their opinion, and at the most, take part in the development of the plot. Examples include Dancing with the Stars with spectator rating mechanics, Formula 1 with the selection of the best driver of the race, or the Eurovision Song Contest.
 
-**Rating of the system of services and goods**. The evaluation of goods and services by buyers is available in almost every online store. There are many services that specialize in collecting and analyzing such estimates. Amazon, IMDB, Yandex Market, Booking.com.
+**Ratings, systems for evaluating services and goods**. The rating of goods and services by customers is available in almost every online store. There are many services that specialize in the collection and analysis of such estimates, such as Amazon, IMDB, Yandex Market, Booking.com.
 
-As well as business loyalty programs, dating services, mutual technical support services, answering services, wiki-like resources and, finally, direct thankfulness of people to each other.
+Other examples include business loyalty programs, dating services, mutual technical support services, question answering services, wiki-like resources, and, finally, direct gratitude expressed by people to one another.
 
-Any interaction between people in which there is a "like", rating, thankfulness or vote can be improved with the VIZ and can be serviced by the VIZ. This is the economy of the Third Activity, the economy of social activity, or simply vizonomics.
+Any interaction between people in which there is a ‘like’, rating, thank you, or vote can be augmented with the help of VIZ and can be served by VIZ. This is the economics of the Third type of Activity, the economics of social activity, or simply vizonomics.
 
-### Blockchain VIZ — a decentralized network of vizonomics
+### The VIZ Blockchain as a decentralized vizonomics network
 
-As well as Bitcoin blockchain stores and transfers financial value, i.e. financial capital, the VIZ blockchain stores and transfers social value belonging to a person, i.e. its social capital.
+Just like the Bitcoin blockchain stores and transmits financial value like capital, the VIZ blockchain stores and transmits the social value that belongs to an individual user – represented by their social capital.
 
-> **More about the structure of the VIZ blockchain**
+> **In-depth look at the framework of the VIZ blockchain**
 
-> The VIZ blockchain is designed so that only its owner or the one to whom he transferred the right of such access (account keys) has access to the use of social capital. At the same time, there are three levels of access: from practically not causing problems in case of compromise to complete, which makes the use of the blockchain safer and more convenient.
+> The VIZ blockchain is designed in such a way that only the owner of the social capital has access to its use, or the one to whom the owner transferred the right of such access in the form of the account keys. At the same time, there are three levels of access ranging from the first that results in virtually no problem in case of a compromise, to complete access, making the use of the blockchain more secure and convenient.
 
-> The consensus algorithm [Fair DPoS](https://control.viz.world/media/@on1x/fair-dpos/) in the VIZ blockchain excludes the success of the 51% attack. To censor or forge transactions, attackers need to become delegates and get votes from the owners of about 90% of social capital, while effectively dividing them among “their” delegates who sign blocks. In practice, such a concentration of votes is impossible. Therefore, no force is able to censor user transactions, allow or forbid them to do anything that the code allows to do. 
+> The fair DPoS Consensus Algorithm applied in the VIZ blockchain eliminates the possibility of success of a ‘51% attack’. To censor or fake transactions, attackers need to become delegates and get votes from the owners of about 90% of the social capital, while effectively dividing them among ‘their’ block-signing delegates. Such a concentration of votes is impossible in practice. Therefore, no single authority is able to censor users’ transactions, to allow or forbid them from doing anything that the code allows.
 
-> The finality of a transaction on the VIZ blockchain occurs about a minute after its completion, but in reality, applications usually only need one confirmation of the transaction by a top delegate, which takes no more than 6 seconds.
+> Transaction execution on the VIZ blockchain takes place about a minute after it is made, but in reality, applications usually only need one confirmation of the transaction by the top delegate, which takes no more than 6 seconds.
 
-> The total amount of transmitted data depends more on the technical parameters of the nodes (servers) of the blockchain than on its code, while the size of an individual transaction is usually several tens of bytes, therefore, thousands of ordinary transactions can be written to each block (every 3 seconds).
+> The total amount of transmitted data depends to a larger extent on the technical parameters of the nodes, or servers, of the blockchain than on its code. At the same time, the size of a single transaction is usually several tens of bytes. This means that thousands of ordinary transactions can be recorded in each block every 3 seconds.
 
-> There are no smart contracts in the VIZ blockchain, all the logic of interactions with accounts is moved to the application level. They can both broadcast transactions directly to the blockchain and "imitate" transactions, periodically writing an updated state to the blockchain, which saves blockchain resources.
+> There are no smart contracts in the VIZ blockchain, as all the logic of interactions with accounts is moved to the application level. They can either directly broadcast transactions to the blockchain, or ‘imitate’ transactions by periodically writing an updated state to the blockchain, thus saving considerable blockchain resources.
 
-The VIZ blockchain is simple, flexible, fast, allowing a huge number of transactions and protected from attacks. The social capital accumulated by the user is securely stored and easily used. Decentralization allows you not to worry about the possibility of censoring awards, and bringing the logic to the application layer simplifies their development.
+The VIZ blockchain is simple, flexible, fast, allows for a huge number of transactions to be processed, and is protected from attacks. The social capital accumulated by the user is securely stored and easy to use. The aspect of decentralization saves users from having to worry about the possibility of censoring rewards, while the transfer of the logic to the application level simplifies their generation.
 
-In vizonomics, the blockchain acts as an immutable and incorruptible "memory" of all participants and a tool for using the data accumulated in this "memory".
+Under the vizonomics model, the blockchain acts as an immutable and incorruptible ‘memory’ of all participants and a tool for using the data accumulated in said ‘memory’.
 
-In addition, as in the real world, the former merits of the VIZ participants lose value over time: the constant small emission of new tokens (10% per year) gradually reduces the influence of the old social capital on the distribution of awards.
+In addition, just as in the real world, the former merits of the participants of VIZ lose value over time. The constant limited supply of new tokens (10% per year) gradually reduces the influence of the established social capital on the distribution of rewards.
 
 ### Social capital is a non-financial instrument of influence
 
