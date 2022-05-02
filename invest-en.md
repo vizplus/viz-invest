@@ -168,66 +168,67 @@ On the other hand, VIZ has an unusually flexible and voluminous system of techni
 
 The control system in VIZ is built based on the principle of taking into account the mistakes made by the creators of other blockchains, where decisions are made in a similar way. In VIZ, the largest participants can influence decisions by supporting delegates with their social capital who are ready to fulfill their wishes. But even the combined strength of several of the largest participants is not enough to take over the blockchain. And if they ever do manage to collect more than 90% of social capital in support of their decision, then this is no longer considered a takeover, but legitimate support.
 
-## Token viz
+## The viz token
 
-### Not money
+### It is not money
 
-Viz tokens are not cryptocurrencies, not coins, not instrument of payment. Of course, like any crypto asset and any standard thing in the real world, vizes can be exchanged for something else, using them as a measure of value. In the same way you can use cigarettes, canned food, cast iron blanks, postage stamps and bottles of vodka. But useability does not make all of these assets money in a general sense.
+Viz tokens are not a cryptocurrency, they are not coins, they are not digital currencies, and they are not a means of payment. Of course, like any crypto asset and any standard asset in the real world, viz tokens can be exchanged for something else by using them as a measure of value. Cigarettes, canned food, cast iron dumbbells, postage stamps, and bottles of vodka can be used in the same way. But the possibility of use does not turn all these assets into money in the general sense.
 
-Viz tokens are needed for certain purposes in certain situations, and their theoretically possible function of a payment intermediary in transactions is not the main one.
+Viz tokens are needed for certain purposes in certain situations, and their theoretically possible function as a means of payment or intermediary in transactions is not their main purpose.
 
-### Not securities
+### It is not a security
 
-Viz tokens are not stocks, bonds, futures, options, or even CDS. Simply put, not securities. Viz tokens are not issued by any organization, do not represent a share in a business or someone else's obligation, do not reflect the value of any other asset, do not promise profit.
+Viz tokens are not stocks, bonds, futures, options, or even CDS. In other words, they are not securities. Viz tokens are not issued by any organization, are not a share in a business or someone’s obligation, nor do they reflect the value of any other asset, and do not promise profits.
 
-The initial distribution of viz tokens was free of charge, by the free will of an unknown person and was not associated with any obligations. All further monetary transactions with tokens were not and will not be an emission, the parties to such transactions only resell an existing digital asset to each other, based on their intentions to use this asset.
+The initial distribution of viz tokens took place free of charge, at the goodwill of an unknown individual and was not associated with any obligations. All further monetary transactions with the tokens were not and will not be construed as supply. The parties to such transactions will only resell the existing digital asset to each other based on their intentions regarding the use of this asset.
 
-### Not "tickets" of the financial pyramid
+### It is not a check of a financial pyramid
 
-In the VIZ economy, there is no fundraising for investment in foreign assets and there is no income from such assets, so no one can promise any "payments", "dividends", "interest", etc. to token holders.
+There is no such thing as fundraising for investments in external assets and no income from such assets within the VIZ economy, so no one can promise any ‘payments’, ‘dividends’, ‘interest’, etc. to token holders.
 
-The VIZ does not have a “central authority” that buys and sells tokens, setting their price. The price of a token, expressed in money or cryptocurrency, is determined exclusively in the course of private transactions of equal participants.
+VIZ does not have a ‘centralized authority’ that buys and sells tokens, setting their price. The price of the token, expressed in money or cryptocurrency, is determined exclusively in the course of private transactions of equal participants.
 
-Tokens have a specific purpose — they service non-financial transactions between ecosystem participants.
+The tokens have a specific purpose, as they serve non-financial transactions between ecosystem participants.
 
-### What is viz token?
+### What is the viz token
 
-Despite the fact that the VIZ ecosystem and vizonomics are outside the ordinary economy and ordinary finance, it needs a tool to take into account the main value - digital social capital. Such a tool is viz tokens circulating in the VIZ blockchain.
+Despite the fact that the VIZ ecosystem and vizonomics are outside the boundaries of conventional economics and conventional finance, it still needs a carrier to convey the main value of digital social capital. Viz tokens circulating in the VIZ blockchain act as such carriers.
 
-The main function of viz tokens is to serve as a unit of measurement of the digital social capital of VIZ participants.
+The main function of viz tokens is to serve as a unit of measure for the digital social capital of the participants of VIZ.
 
-A person's height is measured in centimeters, weight — in kilograms, financial capital - with one or other money, achievements in chess - with ELO rating points, and social capital - with vizes. The token itself is not "secured", does not reflect the value of any other asset, and is not a financial instrument.
+A person’s height is measured in centimeters, their weight - in kilograms, their financial capital - in one way or another, their achievements in chess - in ELO rating points, and their social capital is measured in viz tokens. The token itself is not ‘backed’ by anything, it does not reflect the value of any other asset, and it is not a financial instrument.
 
-Vizes can be in one of two forms: low liquid (in social capital) and fully liquid (“in the wallet” or “on the account”). The withdrawal of 100% of vizes from social capital to a liquid state occurs in 28 iterations, each one once a day (delegates can change this value). Fewer vizes are withdrawal proportionally faster. The reverse transfer - from a liquid state to social capital occurs instantly.
+Viz tokens exist in two forms - low-liquid in the form of social capital, and fully liquid ‘in the wallet’ or ‘on the account’ of the user. The withdrawal of 100% of viz tokens from social capital to a liquid state occurs in 28 iterations, each one once a day. The delegates can change this value. Fewer viz tokens are withdrawn proportionately faster. The reverse transfer from a liquid state to social capital occurs instantly.
 
 ### Tokens and money
 
-On the whole, vizonomics is self-sufficient: vizes serve the distribution and circulation of social capital, which is a value in itself and does not require external evaluation in terms of money. There is no central operator obligated to sell or buy vizes at any price, but liquid tokens are freely exchanged for cryptocurrencies or money through private transactions.
+Vizonomics is generally self-sufficient, as viz tokens serve the distribution and circulation of social capital, which is value in itself and does not require external evaluation in money. There is no central operator obligated to sell or buy viz tokens at any price, but liquid tokens are freely exchangeable for cryptocurrencies or money in private transactions.
 
-The ability to buy vizes (and ultimately increase social capital for money) allows VIZ participants to quickly increase their non-financial influence and more stimulate others to be useful. In turn, the sale of surplus vizes helps participants finance the costs of maintaining the blockchain and applications and earn from social activities.
+The ability to buy viz tokens, and ultimately increase social capital with money, allows the participants of VIZ to increase their non-financial influence faster and incentivize others to contribute more. In turn, the sale of surplus viz tokens helps participants finance the costs of maintaining the blockchain and applications and earn from social activities.
 
-In addition, until the intrinsic value of social capital has become apparent to everyone, the market price of vizes makes the value of awards more understandable. This encourages VIZ participants to maintain their capital at a level at which the awards they give out are sufficiently "weighty" for the recipients.
+In addition, while the inherent value of social capital has not become obvious to everyone, the market price of viz tokens makes the value of rewards more understandable. This encourages the participants of VIZ to maintain their capital at a level at which the rewards they issue are sufficiently considerable for the recipients.
 
-> Example  
-> The VIZ participant has social capital that allows him to make 20 awards per day with an average of 1.5 viz for each award. At the market price of a viz of 1 cent, the reward is perceived as “sufficient”. But with a price of 0.2 cents, the participant should think about increasing capital or reducing the number of awards, so that each award is more "weighty" for the recipient. Conversely, if a viz costs 10 cents, you can sell some of the capital or increase the number of rewards, since 15 cents per like may seem like an excessive award.
+> Example
 
-With the development of VIZs, the focus on the “monetary” value of awards will cease to play a significant role: social capital will become a self-sufficient value, and the attitude towards the size of awards will be based on the ratio between the size of the award and the average size of a person's social capital.
+> A user of VIZ has enough social capital to issue 20 rewards per day at an average of 1.5 viz per reward. At the market price of a viz token of 1 cent, the reward is perceived as ‘sufficient’. But at a price of 0.2 cents, the participant should think about increasing their capital or reducing the number of rewards so that each reward is more ‘considerable’ for the recipient. Conversely, if each viz is worth 10 cents, users can sell some of their capital or increase the number of issued rewards, since 15 cents per like may seem like an excessive reward.
 
-### The turnover of liquid viz
+With the development of VIZ, the focus on the ‘monetary’ value of rewards will no longer play a significant role, since social capital will become a self-sufficient value, and the attitude towards the size of rewards will be based on the ratio of the size of the reward and the average size of a user’s social capital.
 
-Despite the fact that VIZ is focused on the concept of digital social capital, it has the ability to use fully liquid tokens for various operations. Let's list the available options.
+### Turnover of liquid viz
 
-**Transferring social capital between accounts** - the main function of viz liquid tokens. In VIZ, it is impossible to transfer social capital directly from one account to another. To do this, it must be withdrawn into liquid tokens, sent to another account and there again to be capitalized. If desired, a certain number of tokens can be left and stored in the "wallet", but in this form they do not benefit the owner, since they are not taken into account when awards.
+Despite the fact that VIZ is focused on the concept of digital social capital, it has the ability to use fully liquid tokens for various transactions. Consider the list of the available options.
 
-Also, liquid viz's are required to **pay commissions** for some rare actions in the blockchain: creating an application to the DAO Fund, setting an account for sale, declaring an account as a delegate, etc. This is done to protect the blockchain from spam with applications. The size of the commissions is determined by the delegates.
+**The transfer of social capital between accounts** is the main function of liquid viz tokens. In VIZ, it is impossible to transfer social capital directly from one account to another. To do this, it must be withdrawn into liquid tokens, sent to another account, and there again converted into capital. If users choose so, a certain number of tokens can be left and stored in their ‘wallet’, but they do not yield any benefit for their owner in this form, since they are not taken into account for rewards.
 
-In liquid tokens **funds are paid from the DAO Fund**.
+Also, liquid viz tokens are needed to **pay for commissions** for some rare actions in the blockchain, like creating an application to the DAO Fund, putting an account up for sale, declaring an account as a delegate, etc. This is done to protect the blockchain from application spam. The size of the commissions is determined by the delegates.
 
-VIZ has a unique feature **recurrent (automatically recurring) payments** with liquid tokens directly through the blockchain. Its obvious application is paying for any kind of subscription — for content, goods, services, charitable payments, etc.
+**Funds are paid out from the DAO Fund** in the form of liquid tokens.
 
-**Checks** are used to transfer liquid tokens outside the network. The user "writes a check", blocking a certain number of tokens and associating them with a public / private key pair, and transfers the check (keys) to another user in any way outside the blockchain (in person, by email, via a messenger, etc.). The recipient can “cash” the check into his account at any time.
+VIZ has a unique function of **recurrent, or automatically repeating, payments** in liquid tokens directly through the blockchain. Its obvious use is to pay for any kind of subscription for content, goods, services, charitable payments, etc.
 
-Finally, vizes are used **as a cryptocurrency** — to instantly pay for goods and services without commission by a simple transfer. This is not the main function, but if someone is ready to accept vizes in payment for something, and someone is willing to pay with them, then the VIZ blockchain allows you to do this.
+**Checks** are used to transfer liquid tokens off the network. The user ‘writes a check’, locking a certain number of tokens, thus linking them to a public / private key pair, and then transfers the check (keys) to another user in any way outside the blockchain, for instance in person, by email, via messenger, etc. The recipient can ‘cash’ out the check into their account at any time.
+
+Finally, viz tokens are used as a **cryptocurrency** for instant payment for goods and services without commissions via simple transfer. This is not their main purpose, but if a user is ready to accept viz tokens as payment for something, and another user is ready to pay with them, then the VIZ blockchain allows them to do so.
 
 ## Emission in VIZ
 
