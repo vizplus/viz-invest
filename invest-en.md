@@ -107,63 +107,66 @@ Under the vizonomics model, the blockchain acts as an immutable and incorruptibl
 
 In addition, just as in the real world, the former merits of the participants of VIZ lose value over time. The constant limited supply of new tokens (10% per year) gradually reduces the influence of the established social capital on the distribution of rewards.
 
-### Social capital is a non-financial instrument of influence
+### Social capital as a non-financial instrument of influence
 
-A person with large social capital (who has accumulated thankfulness and a good attitude from others) has advantages over “no-name”. Other people are more willing to provide him with services, do something useful or pleasant, without requiring direct payment. This is due to the higher value of the thankfulness of such a person.
+Users with a large amount of social capital, who have accumulated gratitude and a good attitude from others, have some advantages over so-called ‘no names’. Other users are more willing to render their services to such established heavyweights, or do something useful or pleasant without demanding direct payment. This is due to the higher value of the gratitude expressed by such users.
+> Example
 
-> Example  
-> It is enough for a popular blogger to hint that he would not mind a free tour in an unfamiliar city, and he will receive at least a few offers. A successful athlete uses his status (social capital) to advance political or civic views. An active participant in the Telegram chat, who helped many newbies to deal with a complex program, is more likely to receive an answer to a question not related to the chat topic than an unknown user who can simply be banned for offtopic.
+> It is enough for a popular blogger to express a hint that they would not mind a free tour in an unfamiliar city, and they will receive a few offers shortly. A successful athlete uses their status in the form of social capital to promote some political or civic views. An active participant in a Telegram chat, who has helped many beginners master a complex program, is more likely to receive an answer to a question off the topic of the chat than an unknown user who can simply be banned for off topic spam.
 
-Digital social capital in the VIZ makes the status of a person (more correctly, an account) visible and transferable from one community to another. Large social capital in a VIZ means that its owner has brought a lot of benefit to other people — directly by their actions or by purchasing vizes, which has added value to someone else's social capital.
+Digital social capital in VIZ makes the status of a person, or rather, an account, visible and transferable from one community to another. The large social capital in a VIZ means that its owner has brought a lot of benefit to other people either directly by their actions or by buying viz tokens, which have added value to some other user’s social capital.
 
-The dependence of the size of awards on the size of social capital allows differentiating the influence of VIZ participants on others. People are more willing to bring benefit or pleasure to the owner of large social capital, since he can award more in thankfulness for this benefit.
+The dependence of the amount of rewards on the amount of social capital makes it possible to differentiate the influence of some participants of VIZ on others. People are more willing to bring benefit or pleasure to the owner of large social capital, since they can give more rewards in gratitude for such benefit.
 
-Despite the fact that vizes can be bought and sold, the exchange of benefits and awards itself is not financial in nature, since the size of the award is a matter of goodwill of the awarding person, and not a pre-agreed amount of vizes. The interactions of VIZ participants in the “benefit-award-benefit” cycle occur outside the traditional economy and are not transactions.
+Despite the fact that viz tokens can be bought and sold, the exchange of benefits and rewards is not financial in nature, since the size of the reward is a matter of goodwill of the rewarding user, and not a pre-agreed amount of viz tokens. The interactions of the participants of VIZ in the ‘benefit-reward-benefit’ cycle take place outside the traditional economy and are not transactions.
 
-Digital social capital can belong not only to a person, but also to an organization, a group of people, or a bot. Accordingly, the influence of social capital can be divided into several directions:
+Digital social capital can belong not only to a person, but also to an organization, a group of people or a bot. Accordingly, the impact of social capital can be divided into several categories of interaction:
 
-> **p2p** — a person with the help of awards influences other people, stimulating them to bring him non-financial benefits;
+> **p2p** - a user influences other users with the help of rewards, thus stimulating them to bring them non-financial benefits;
 
-> **p2b** — a person influences or expresses an opinion about business, political organization, public initiative, etc.;
+> **p2b** - a user influences or expresses an opinion about a business, a political organization, a public initiative, etc.;
 
-> **b2p** — the organization increases the social capital of people who benefit it (business awards customers), or stimulates them to act in a certain way (a political party awards supporters).
+> **b2p** - an organization increases the social capital of users who benefit it (business rewards clients), or encourages them to act in a certain way (political party rewards supporters).
  
-### Social interaction protocols — a common language for applications
+### Social interaction protocols as a common language used by applications
 
-The logic and context of interaction between VIZ participants are moved to the application level, that is, there are no smart contracts in VIZ that are executed directly in the blockchain. However, there is an "intermediate" solution using the properties of both private applications and the "general" blockchain: protocols.
+The logic and context of interaction between the participants of VIZ are moved to the application level, meaning there are no smart contracts in VIZ that are executed directly on the blockchain. However, there is an ‘in-between’ solution that uses the properties of both private applications and the ‘common’ blockchain: protocols.
 
-In the VIZ blockchain, you can save not only strictly defined data (awards, token transfers, etc.), but also free text records. Such records can be structured by the creator of the application. If the creators of other applications agree to save some data with a given structure and read it for their own purposes, then such a structure becomes a general protocol for records of a certain type.
+In the VIZ blockchain, users can save not only strictly defined data like rewards, token transfers, etc., but also free text records. Such entries may have a structure designed by the application’s creator. If the creators of other applications agree to store some data with a given structure and read it for their own purposes, then such a structure becomes a common protocol for the records of a certain type.
 
-> Example  
-> Let's say someone has developed a protocol describing the profile of a VIZ participant: 
->
-> name:”...”; about:”...”; date_of_birth:”...”; gender:”...”; nationality:”...”; telegram:”...”; fb:”...”
->
-> Then any application can save the data of its users in the blockchain in this format and read the data of both its own and any other users, showing them in a convenient form. 
+> Example
 
-Protocols can be very complex and contain a data structure for any application: social networks, messengers, user issued assets, and completely exotic solutions. 
+> Let us consider that someone has developed a protocol that describes the profile of a participant of VIZ:
 
-> Example 
-> The VIZ describes the [Whisper protocol](https://control.viz.world/media/@on1x/ru-viz-whisper-protocol/) for the exchange of messages between users, in which an external observer cannot determine either the sender or the addressee nor the content of the message, even though it is on the public blockchain.
+> name: ‘...’; about:’....’; date_of_birth: ‘...’; gender: ‘...’; nationality: ‘...’; telegram: ‘...’; fb: ‘...’
 
-In other words, the protocols in the VIZ are standards for the exchange of information through the blockchain voluntarily adopted by application developers. Applications running on the same protocol have a common user base, but compete, offering users their own unique features: user-friendly design, additional filtering and data processing (or its fundamental absence), data analysis, etc.
+> Any application can thus save the data of its users in the blockchain in this format and read the data of both its own and any other users, displaying them in a convenient form.
 
-> Example  
-> Some applications running on the social network protocol can block some accounts for their users (spam, pornography or kremlebots), while others, on the contrary, show only accounts allowed by a special algorithm, while third one do not block anything, declaring freedom of speech. At the same time, a single "database" of messages for all applications will be located in the blockchain.
+Protocols can be very complex and contain a data structure for any application like social networks, instant messengers, custom tokens, and completely exotic solutions.
 
-Similar protocols created by different developers can complement each other or compete with each other, evolving the VIZ ecosystem.
+> Example
+>  
+> VIZ contains a description of [Whisper protocol](https://control.viz.world/media/@on1x/ru-viz-whisper-protocol/) designed for exchanging messages between users, in which an external observer will not be able to determine either the sender, or the addressee, or the content of the message, despite the fact that it is in the public blockchain.
 
-One of the first ready-made and actively developing protocols in VIZ is a distributed social network protocol without censorship. It provides the ability to publish and receive information without any control from anyone other than the user himself. Among other things, there is a serverless social network client [Readdle.Me](https://readdle.me/) that works directly in the user's browser and communicates directly with the blockchain without the mediation of any server.
+In other words, the protocols in VIZ are standards for the exchange of information through the blockchain voluntarily adopted by application developers. Applications running on the same protocol have a common user base, but compete by offering users their own unique features, such as a convenient design, additional filtering and data processing, or the fundamental absence thereof, as well data analysis, etc.
 
-### Decentralized management — protection against bad decisions
+> Example
+> 
+> Some applications running on the protocol of a social network can block some accounts for their users for spam, pornography or Kremlin bots, while others, on the contrary, show only accounts allowed by a special algorithm. Others do not block anything, declaring freedom of speech. At the same time, a single ‘database’ of messages for all applications will be located in the blockchain.
 
-VIZ does not and cannot have an owner, “main shareholder”, director or “boss” in any sense. But there is no anarchy either. The governance system is well balanced: it has a group of selected (literally) participants who make decisions, but the composition of these participants (they are called “delegates”) partially rotates every minute and can change rapidly if their actions do not suit the owners of social capital.
+Similar protocols created by different developers can complement each other or compete with each other, thus evolving the overall VIZ ecosystem.
 
-To make key decisions related to changing the blockchain code, the consent of at least 17 delegates is required, of which at least 7 must be among the selected top 11. At the same time, the likelihood of participation in the vote for changing the code for delegates not from the top 11 directly depends on their position in the list of delegates, that is, they should also have significant support from the owners of social capital. In other words, attackers who want to change the blockchain code against the will of ordinary VIZ participants must guarantee themselves a minimum of 7 places in the top and 10 places as close to the top as possible (or better, much more). To do this, they will need the support of about 90% of the social capital in the system, which seems extremely unlikely.
+One of the first ready-made and actively developing protocols in VIZ is a distributed social network protocol that involves no censorship. It provides the ability to publish and receive information without any control from anyone other than the user. A serverless social [Readdle.Me](https://readdle.me/) network client also exists, which runs in the user’s browser and communicates directly with the blockchain without the mediation of any additional server.
 
-On the other hand, VIZ has an unusually flexible and voluminous system of technical and economic settings for the blockchain. To regulate the current activities of the blockchain, consensus is not required: the settings are set based on the median value of the parameters set by the delegates. Accordingly, delegates can quickly respond to the needs of the community by adjusting the blockchain parameters to the current situation.
+### Decentralized governance as an instrument ensuring protection from poor decision-making
 
-The control system in VIZ is built taking into account the mistakes made by the creators of other blockchains, where decisions are made in a similar way. In the Visa, the largest participants can influence decisions by supporting those delegates with their social capital who are ready to fulfill their wishes. But even the combined strength of several of the largest participants will not be enough to "capture" the blockchain. And if they manage to collect more than 90% of social capital in support of their decision, then this is no longer a "capture", but legitimate support.
+VIZ does not and cannot have an owner, a majority shareholder, director or boss in any sense. But there is no anarchy either. The governance system is well balanced, as it has a group of participants elected in the literal sense, who make decisions, but the makeup of these participants, called ‘delegates’, is partially rotated every minute and can change quickly if their actions do not suit the needs of the owners of social capital.
+
+To make key decisions related to changing the blockchain code, the consent of a minimum of 17 delegates is required, of which at least 7 must be among the top 11 elected. At the same time, the probability of participation in the vote for changing the code for delegates who are not from the top 11 directly depends on their position in the list of delegates. They must also have significant support from the owners of social capital. In other words, attackers who want to change the blockchain code against the will of ordinary Participants of VIZ must guarantee themselves a minimum of 7 places in the top and 10 places as close to the top as possible. The more – the better. To do this, they will need the support of about 90% of the social capital in the system, which seems extremely unlikely.
+
+On the other hand, VIZ has an unusually flexible and voluminous system of technical and economic blockchain settings. Consensus is not required to regulate the current activity of the blockchain. The settings are set based on the median value of the parameters set by the delegates. Accordingly, delegates can quickly respond to the needs of the community by adjusting the parameters of the blockchain to the current situation.
+
+The control system in VIZ is built based on the principle of taking into account the mistakes made by the creators of other blockchains, where decisions are made in a similar way. In VIZ, the largest participants can influence decisions by supporting delegates with their social capital who are ready to fulfill their wishes. But even the combined strength of several of the largest participants is not enough to take over the blockchain. And if they ever do manage to collect more than 90% of social capital in support of their decision, then this is no longer considered a takeover, but legitimate support.
 
 ## Token viz
 
