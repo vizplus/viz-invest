@@ -17,7 +17,7 @@ You do not need viz tokens if you do not understand what and who they are for, t
 - Social interaction protocols as a common language used by applications
 - Decentralized governance as an instrument ensuring protection from poor decision-making
     
-[The viz token](#token-viz)
+[The viz token](#the-viz-token)
 
 - It is not money
 - It is not a security
