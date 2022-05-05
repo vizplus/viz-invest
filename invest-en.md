@@ -26,7 +26,7 @@ You do not need viz tokens if you do not understand what and who they are for, t
 - Tokens and money
 - Turnover of liquid viz
 
-[VIZ Supply](#emission-in-viz)
+[VIZ Supply](#viz-supply)
 
 - Base supply
 - Frozen Tokens
@@ -38,7 +38,7 @@ You do not need viz tokens if you do not understand what and who they are for, t
 - Second phase: start of growth (2021-2023)
 - Third phase: formation of a mature ecosystem (2024-2030)
 
-[Value Model](#model-for-assessing-the-value-of-viz)
+[Value Model](#value-model)
 
 [How to invest in VIZ](#how-to-invest-in-viz)
 
