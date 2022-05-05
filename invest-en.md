@@ -8,7 +8,7 @@ You do not need viz tokens if you do not understand what and who they are for, t
 
 ### Content
 
-[Why you should invest in VIZ](#why-invest-in-a-viz)
+[Why you should invest in VIZ](#why-you-should-invest-in-viz)
 
 - The third type of activity is social activity
 - Vizonomics as the economics behind social activity
