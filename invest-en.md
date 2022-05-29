@@ -52,11 +52,12 @@ Simply put, people receive resources from other people to spend them on themselv
 
 Both of these aspects of life - work and leisure - are served by the traditional economy. The key element of said economy is the voluntary equivalent exchange of the results of labor through monetary value.
 
-In recent years, the third part of human life has seen active development in the form of social activities conducted across large and diverse groups of people. These actions include publications in social services, participation in ‘neighborly’, civil and political activities, engagement in online games and n activities in communities supported by brands, involvement in amateur sports and interactive entertainment including voting for other participants, and much more.
+In recent years, the third part of human life has seen active development in the form of social activities conducted across large and diverse groups of people. These actions include publications in social services, participation in ‘neighborly’, civil and political activities, engagement in online games and activities in communities supported by brands, involvement in amateur sports and interactive entertainment including voting for other participants, and much more.
 
 This range of activities requires people to use the resources available to them, such as money, time, and knowledge, just as rest does. At the same time, these activities bring benefits or pleasure to other people, just as work. But the exchange of the results of such activities is not related to money and does not seek to be equivalent to it, as is the case in the traditional economy. 
 
 > Example
+> 
 > Someone posts some funny cats on Instagram not because they get paid for it or they recuperate in this way to get ready for the next working day. Otherwise, they would be storing these pictures on their hard drives. Instead, they do it, because this user of Instagram gives pleasure, or even benefit, to other people and receives a positive reaction in return in the form of likes and thankful comments.
 
 In turn, other people post memes about politicians on Twitter, bringing benefit and pleasure to the admirers of cats and politicians, receiving gratitude in return.
